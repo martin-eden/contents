@@ -11,8 +11,6 @@
   * [tagging style](https://github.com/martin-eden/tagging_guideline)
 
 * Not my but also nice
-  * censorship
-    * https://github.com/github/gov-takedowns
   * Tools
     * [FreePascal](https://github.com/graemeg/freepascal)
     * [GNU compilers collection](https://github.com/gcc-mirror/gcc)
