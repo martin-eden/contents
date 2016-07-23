@@ -9,3 +9,12 @@
 
 * one-time random activities
   * [tagging style](https://github.com/martin-eden/tagging_guideline)
+
+* Not my but also nice
+  * censorship
+    * https://github.com/github/gov-takedowns
+  * Tools
+    * [FreePascal](https://github.com/graemeg/freepascal)
+    * [GNU compilers collection](https://github.com/gcc-mirror/gcc)
+    * [git](https://github.com/git/git)
+    * [lua](https://github.com/lua/lua)
