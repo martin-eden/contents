@@ -16,3 +16,6 @@
     * [GNU compilers collection](https://github.com/gcc-mirror/gcc)
     * [git](https://github.com/git/git)
     * [lua](https://github.com/lua/lua)
+  * Good people repositories
+    * [gvx](https://github.com/gvx?tab=repositories)
+    * [Steve Donovan](https://github.com/stevedonovan/luafaq)
