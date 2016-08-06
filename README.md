@@ -20,4 +20,4 @@
   * Other good people repositories
     * [gvx](https://github.com/gvx?tab=repositories)
     * [Steve Donovan](https://github.com/stevedonovan/luafaq)
-    * [Cap'n Proto](https://github.com/sandstorm-io/capnproto)
+    * [Kenton Varda](https://github.com/sandstorm-io/capnproto)
