@@ -18,6 +18,6 @@
     * [lua](https://github.com/lua/lua)
     * [linux](https://github.com/torvalds/linux)
   * Other good people repositories
-    * [gvx](https://github.com/gvx?tab=repositories)
+    * [gvx](https://github.com/gvx/Ser)
     * [Steve Donovan](https://github.com/stevedonovan/luafaq)
     * [Kenton Varda](https://github.com/sandstorm-io/capnproto)
