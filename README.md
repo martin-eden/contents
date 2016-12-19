@@ -21,3 +21,4 @@
     * [gvx](https://github.com/gvx/Ser)
     * [Steve Donovan](https://github.com/stevedonovan/luafaq)
     * [Kenton Varda](https://github.com/sandstorm-io/capnproto)
+    * [Andre Murbach](https://github.com/andremm)
