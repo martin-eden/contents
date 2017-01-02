@@ -3,9 +3,10 @@
   * [pet-species](https://github.com/martin-eden/pet_species_to_csv)
 
 * codebase
-  * [workshop](https://github.com/martin-eden/workshop)
-    * [code_state](https://github.com/martin-eden/workshop_users-code_state)
-    * [demo: parse/compile](https://github.com/martin-eden/workshop_users-parse_compile)
+  * [workshop](https://github.com/martin-eden/workshop) - current state but generally useless
+    * [code_state](https://github.com/martin-eden/workshop_users-code_state) - abandoned but was nice try
+    * [demo: parse/compile](https://github.com/martin-eden/workshop_users-parse_compile) - abandoned
+    * [lua code formatter](https://github.com/martin-eden/lua_code_formatter) - checkpoint of my current activity
 
 * one-time random activities
   * [tagging style](https://github.com/martin-eden/tagging_guideline)
