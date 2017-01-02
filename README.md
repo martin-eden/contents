@@ -3,7 +3,7 @@
   * [pet-species](https://github.com/martin-eden/pet_species_to_csv)
 
 * codebase
-  * [workshop](https://github.com/martin-eden/workshop) - current state but generally useless
+  * [workshop](https://github.com/martin-eden/workshop) - code hive. Resource for all but useless by itself.
     * [code_state](https://github.com/martin-eden/workshop_users-code_state) - abandoned but was nice try
     * [demo: parse/compile](https://github.com/martin-eden/workshop_users-parse_compile) - abandoned but most examples should be actual
     * [lua code formatter](https://github.com/martin-eden/lua_code_formatter) - checkpoint of my current activity
