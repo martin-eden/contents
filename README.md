@@ -18,7 +18,7 @@
     * [git](https://github.com/git/git) - thanks Linus for implementation of versioned filesystem
     * [lua](https://github.com/lua/lua) - thanks Roberto for elegant language!
     * [linux](https://github.com/torvalds/linux) - thanks Linus for OS core
-  * Other good people repositories
+  * Good people repositories
     * [gvx](https://github.com/gvx/Ser) - lua table serializer
     * [Steve Donovan](https://github.com/stevedonovan/luafaq) - lua FAQ
     * [Kenton Varda](https://github.com/sandstorm-io/capnproto) - data serizalizer
