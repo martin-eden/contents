@@ -4,8 +4,8 @@
 
 * codebase
   * [workshop](https://github.com/martin-eden/workshop) - code hive. Resource for all but useless by itself.
-    * [code_state](https://github.com/martin-eden/workshop_users-code_state) - abandoned but was nice try
-    * [demo: parse/compile](https://github.com/martin-eden/workshop_users-parse_compile) - abandoned but most examples should be actual
+    * [code_state](https://github.com/martin-eden/workshop_users-code_state) - abandoned but was nice try (requires yEd)
+    * [demo: parse/compile](https://github.com/martin-eden/workshop_users-parse_compile) - rarely updated but most examples should be actual
     * [lua code formatter](https://github.com/martin-eden/lua_code_formatter) - checkpoint of my current activity
 
 * one-time random activities
