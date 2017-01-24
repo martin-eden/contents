@@ -15,12 +15,12 @@
   * Tools
     * [FreePascal](https://github.com/graemeg/freepascal)
     * [GNU compilers collection](https://github.com/gcc-mirror/gcc)
-    * [git](https://github.com/git/git)
-    * [lua](https://github.com/lua/lua)
-    * [linux](https://github.com/torvalds/linux)
+    * [git](https://github.com/git/git) - thanks Linus for implementation of versioned filesystem
+    * [lua](https://github.com/lua/lua) - thanks Roberto for elegant language!
+    * [linux](https://github.com/torvalds/linux) - thanks Linus for OS core
   * Other good people repositories
-    * [gvx](https://github.com/gvx/Ser)
-    * [Steve Donovan](https://github.com/stevedonovan/luafaq)
-    * [Kenton Varda](https://github.com/sandstorm-io/capnproto)
-    * [Andre Murbach](https://github.com/andremm)
-    * [Robert Machmer](https://github.com/rm-code/Graphoon)
+    * [gvx](https://github.com/gvx/Ser) - lua table serializer
+    * [Steve Donovan](https://github.com/stevedonovan/luafaq) - lua FAQ
+    * [Kenton Varda](https://github.com/sandstorm-io/capnproto) - data serizalizer
+    * [Andre Murbach](https://github.com/andremm/lua-parser) - lua parser
+    * [Robert Machmer](https://github.com/rm-code/Graphoon) - graph planar representation
