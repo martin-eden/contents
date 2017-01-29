@@ -24,3 +24,4 @@
     * [Kenton Varda](https://github.com/sandstorm-io/capnproto) - data serizalizer
     * [Andre Murbach](https://github.com/andremm/lua-parser) - lua parser
     * [Robert Machmer](https://github.com/rm-code/Graphoon) - graph planar representation
+    * [philanc](https://github.com/philanc/plc) - cryptoroutines in lua
