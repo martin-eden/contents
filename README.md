@@ -7,6 +7,7 @@
     * [code_state](https://github.com/martin-eden/workshop_users-code_state) - abandoned but was nice try (requires yEd)
     * [demo: parse/compile](https://github.com/martin-eden/workshop_users-parse_compile) - rarely updated but most examples should be actual
     * [lua code formatter](https://github.com/martin-eden/lua_code_formatter) - checkpoint of my current activity
+      ([rockspecs](https://github.com/martin-eden/lua_code_formatter.rockspecs) for it)
 
 * one-time random activities
   * [tagging style](https://github.com/martin-eden/tagging_guideline)
