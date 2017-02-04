@@ -26,3 +26,5 @@
     * [Andre Murbach](https://github.com/andremm/lua-parser) - lua parser
     * [Robert Machmer](https://github.com/rm-code/Graphoon) - graph planar representation
     * [philanc](https://github.com/philanc/plc) - cryptoroutines in lua
+    * [Last Khajiit](https://github.com/last-khajiit) - projects of type I like
+    
