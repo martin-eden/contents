@@ -6,6 +6,7 @@
   * [workshop](https://github.com/martin-eden/workshop) - code hive. Resource for all but useless by itself.
     * [code_state](https://github.com/martin-eden/workshop_users-code_state) - abandoned but was nice try (requires yEd)
     * [lua code formatter](https://github.com/martin-eden/lua_code_formatter) ([rockspecs](https://github.com/martin-eden/lua_code_formatter.rockspecs) for it)
+    * [lua table serializer](https://github.com/martin-eden/lua_table_serializer)
 
 * one-time random activities
   * [tagging style](https://github.com/martin-eden/tagging_guideline)
