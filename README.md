@@ -32,3 +32,4 @@
     * [data serizalizer](https://github.com/sandstorm-io/capnproto) `canproto` by `Kenton Varda`
     * [cryptoroutines in C](https://github.com/philanc/luanacha) `luanacha` by `philanc`
     * [projects of type I like](https://github.com/last-khajiit) by `Last Khajiit`
+    * [hashes in C](https://github.com/rhash/RHash/tree/master/librhash) by `Alexey Kravchenko`
