@@ -20,7 +20,7 @@
   * Lua 
     * language resources, FAQs, link collections
       * [Lua FAQ](https://github.com/stevedonovan/luafaq) by `Steve Donovan`
-      * [Lua glossary](https://rawgit.com/dlaurie/lua-notes/master/glossary.html) nice work by Dirk Laurie
+      * [Lua glossary](https://rawgit.com/dlaurie/lua-notes/master/glossary.html) by Dirk Laurie
       * [links collection](https://sites.google.com/site/marbux/home/lua-resource-links) by `Paul Merrell`
       * [StackOverflow's Lua directory](http://stackoverflow.com/documentation/lua/topics)  
     * tools, libraries
