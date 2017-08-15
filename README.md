@@ -17,9 +17,10 @@
     * [git](https://github.com/git/git) - thanks Linus for implementation of versioned filesystem
     * [lua](https://github.com/lua/lua) - thanks Roberto for elegant language!
     * [linux](https://github.com/torvalds/linux) - thanks Linus for OS core
-  * lua 
+  * Lua 
     * language resources, FAQs, link collections
-      * [lua FAQ](https://github.com/stevedonovan/luafaq) by `Steve Donovan`
+      * [Lua FAQ](https://github.com/stevedonovan/luafaq) by `Steve Donovan`
+      * [Lua glossary](https://rawgit.com/dlaurie/lua-notes/master/glossary.html) nice work by Dirk Laurie
       * [links collection](https://sites.google.com/site/marbux/home/lua-resource-links) by `Paul Merrell`
       * [StackOverflow's Lua directory](http://stackoverflow.com/documentation/lua/topics)  
     * tools, libraries
