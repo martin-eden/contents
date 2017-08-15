@@ -9,7 +9,7 @@
 
 * one-time random activities
   * [tagging style](https://github.com/martin-eden/tagging_guideline) - some system for describing commits
-
+  * [zip format docs](https://github.com/martin-eden/zipfiles_format_doc) - some official txt docs with self-made .pdf equivalents
 * not my but also nice
   * tools
     * [FreePascal](https://github.com/graemeg/freepascal)
