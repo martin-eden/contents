@@ -25,11 +25,11 @@
       * [links collection](https://github.com/LewisJEllis/awesome-lua) by `Lewis J Ellis`
       * [StackOverflow's Lua directory](http://stackoverflow.com/documentation/lua/topics)  
     * tools, libraries
+      * [tools](http://webserver2.tecgraf.puc-rio.br/~lhf/ftp/lua/) from language coauthor, `Luiz Henrique de Figueiredo`
+      * [cryptoroutines](https://github.com/philanc/plc) `plc` by `philanc`
+      * [graph planar representation](https://github.com/rm-code/Graphoon) `Graphoon` by `Robert Machmer`
       * [table serializer](https://github.com/gvx/Ser) `Ser` by `gvx`
       * [lua parser](https://github.com/andremm/lua-parser) by `Andre Murbach`
-      * [graph planar representation](https://github.com/rm-code/Graphoon) `Graphoon` by `Robert Machmer`
-      * [cryptoroutines](https://github.com/philanc/plc) `plc` by `philanc`
-      * [tools](http://webserver2.tecgraf.puc-rio.br/~lhf/ftp/lua/) from language coauthor, `Luiz Henrique de Figueiredo`
   * good people repositories
     * [data serizalizer](https://github.com/sandstorm-io/capnproto) `canproto` by `Kenton Varda`
     * [cryptoroutines in C](https://github.com/philanc/luanacha) `luanacha` by `philanc`
