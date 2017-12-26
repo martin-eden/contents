@@ -1,15 +1,16 @@
-* World of Warcraft-related
-  * [pet-aux](https://github.com/martin-eden/pet_aux) - bulk download WoW auctions and get a list of pet prices
-  * [pet-species](https://github.com/martin-eden/pet_species_to_csv) - download WoW pets list for analysis
-
 * codebase
   * [workshop](https://github.com/martin-eden/workshop) - code hive. Resource for all but useless by itself.
     * [lua code formatter](https://github.com/martin-eden/lua_code_formatter) - reformats Lua code ([rockspecs](https://github.com/martin-eden/lua_code_formatter.rockspecs) for it)
     * [lua table serializer](https://github.com/martin-eden/lua_table_serializer) - store table data in string with Lua code
+    
+* World of Warcraft-related
+  * [pet-aux](https://github.com/martin-eden/pet_aux) - bulk download WoW auctions and get a list of pet prices
+  * [pet-species](https://github.com/martin-eden/pet_species_to_csv) - download WoW pets list for analysis
 
 * one-time random activities
   * [tagging style](https://github.com/martin-eden/tagging_guideline) - some system for describing commits
   * [zip format docs](https://github.com/martin-eden/zipfiles_format_doc) - some official txt docs with self-made .pdf equivalents
+  
 * not my but also nice
   * tools
     * [FreePascal](https://github.com/graemeg/freepascal)
