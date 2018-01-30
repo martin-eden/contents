@@ -20,13 +20,13 @@
     * [linux](https://github.com/torvalds/linux) - thanks Linus for OS core
   * Lua 
     * language resources, FAQs, link collections
-      * [compiled Windows binaries](https://github.com/WinLua/bin) `WinLua` by `Russel Halley`
       * [Lua FAQ](https://github.com/stevedonovan/luafaq) by `Steve Donovan`
       * [Lua glossary](https://rawgit.com/dlaurie/lua-notes/master/glossary.html) by `Dirk Laurie`
       * [links collection](https://sites.google.com/site/marbux/home/lua-resource-links) by `Paul Merrell`
       * [links collection](https://github.com/LewisJEllis/awesome-lua) by `Lewis J Ellis`
       * [StackOverflow's Lua directory](http://stackoverflow.com/documentation/lua/topics)  
     * tools, libraries
+      * [compiled Windows binaries](https://github.com/WinLua/bin) `WinLua` by `Russel Halley`
       * [tools](http://webserver2.tecgraf.puc-rio.br/~lhf/ftp/lua/) from language coauthor, `Luiz Henrique de Figueiredo`
       * [cryptoroutines](https://github.com/philanc/plc) `plc` by `philanc`
       * [graph planar representation](https://github.com/rm-code/Graphoon) `Graphoon` by `Robert Machmer`
