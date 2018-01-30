@@ -20,7 +20,7 @@
     * [linux](https://github.com/torvalds/linux) - thanks Linus for OS core
   * Lua 
     * language resources, FAQs, link collections
-      * [compiled Windows binaries](https://github.com/WinLua/bin) by `Russel Halley`
+      * [compiled Windows binaries](https://github.com/WinLua/bin) `WinLua` by `Russel Halley`
       * [Lua FAQ](https://github.com/stevedonovan/luafaq) by `Steve Donovan`
       * [Lua glossary](https://rawgit.com/dlaurie/lua-notes/master/glossary.html) by `Dirk Laurie`
       * [links collection](https://sites.google.com/site/marbux/home/lua-resource-links) by `Paul Merrell`
