@@ -4,8 +4,11 @@
     * [lua table serializer](https://github.com/martin-eden/lua_table_serializer) - store table data in string with Lua code
     
 * World of Warcraft-related
-  * [pet-aux](https://github.com/martin-eden/pet_aux) - bulk download WoW auctions and get a list of pet prices
-  * [pet-species](https://github.com/martin-eden/pet_species_to_csv) - download WoW pets list for analysis
+  * [pet_aux](https://github.com/martin-eden/pet_aux) - bulk download WoW auctions and get a list of pet prices
+  * [pet_species_to_csv](https://github.com/martin-eden/pet_species_to_csv) - download WoW pets list for analysis
+
+* Hearthstone
+  * [hearthstone_cards_named](https://github.com/martin-eden/hearthstone_cards_named) - card images grouped by expansions and classes and properly named
 
 * one-time random activities
   * [tagging style](https://github.com/martin-eden/tagging_guideline) - some system for describing commits
