@@ -6,9 +6,10 @@
 * World of Warcraft-related
   * [pet_aux](https://github.com/martin-eden/pet_aux) - bulk download WoW auctions and get a list of pet prices
   * [pet_species_to_csv](https://github.com/martin-eden/pet_species_to_csv) - download WoW pets list for analysis
-
+  
 * Hearthstone
   * [hearthstone_cards_named](https://github.com/martin-eden/hearthstone_cards_named) - card images grouped by expansions and classes and properly named
+  * [heartstone_cards_renamer](https://github.com/martin-eden/hearthstone_cards_renamer) - Bash/Lua scripts to retrieve and rename card images
 
 * one-time random activities
   * [tagging style](https://github.com/martin-eden/tagging_guideline) - some system for describing commits
