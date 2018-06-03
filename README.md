@@ -1,7 +1,7 @@
-* codebase
+* Lua codebase
+  * [lua code formatter](https://github.com/martin-eden/lua_code_formatter) - reformats Lua code ([rockspecs](https://github.com/martin-eden/lua_code_formatter.rockspecs) for it)
+  * [lua table serializer](https://github.com/martin-eden/lua_table_serializer) - store table data in string with Lua code
   * [workshop](https://github.com/martin-eden/workshop) - code hive. Resource for all but useless by itself.
-    * [lua code formatter](https://github.com/martin-eden/lua_code_formatter) - reformats Lua code ([rockspecs](https://github.com/martin-eden/lua_code_formatter.rockspecs) for it)
-    * [lua table serializer](https://github.com/martin-eden/lua_table_serializer) - store table data in string with Lua code
     
 * World of Warcraft-related
   * [pet_aux](https://github.com/martin-eden/pet_aux) - bulk download WoW auctions and get a list of pet prices
