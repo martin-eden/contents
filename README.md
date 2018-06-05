@@ -1,5 +1,5 @@
 * Lua codebase
-  * [lua code formatter](https://github.com/martin-eden/lua_code_formatter) - reformats Lua code ([rockspecs](https://github.com/martin-eden/lua_code_formatter.rockspecs) for it)
+  * [lua code formatter](https://github.com/martin-eden/lua_code_formatter) - reformat Lua code. Currently most popular repository.
   * [lua table serializer](https://github.com/martin-eden/lua_table_serializer) - store table data in string with Lua code
   * [workshop](https://github.com/martin-eden/workshop) - code hive. Resource base for most of my projects.
     
