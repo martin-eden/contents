@@ -1,7 +1,7 @@
 * Lua codebase
   * [lua code formatter](https://github.com/martin-eden/lua_code_formatter) - reformat Lua code. Currently most popular repository.
   * [lua table serializer](https://github.com/martin-eden/lua_table_serializer) - store table as loadable string with Lua code
-  * [autoldoc](https://github.com/martin-eden/autoldoc) - experimental tool to automatically place LDoc comments in Lua source file
+  * [autoldoc](https://github.com/martin-eden/autoldoc) - automatically place LDoc comments in Lua source file
   * [workshop](https://github.com/martin-eden/workshop) - code hive. Resource base for most of my projects.
     
 * World of Warcraft-related
