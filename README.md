@@ -29,7 +29,6 @@
       * [Lua glossary](https://rawgit.com/dlaurie/lua-notes/master/glossary.html) by `Dirk Laurie`
       * [links collection](https://sites.google.com/site/marbux/home/lua-resource-links) by `Paul Merrell`
       * [links collection](https://github.com/LewisJEllis/awesome-lua) by `Lewis J Ellis`
-      * [StackOverflow's Lua directory](http://stackoverflow.com/documentation/lua/topics)
       * [code style guide](https://github.com/Olivine-Labs/lua-style-guide) by `Olivine Labs` group
     * tools, libraries
       * [compiled Windows binaries](https://github.com/WinLua/bin) `WinLua` by `Russel Halley`
