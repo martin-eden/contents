@@ -4,10 +4,6 @@
   * [lua table serializer](https://github.com/martin-eden/lua_table_serializer) - store table as loadable string with Lua code
   * [autoldoc](https://github.com/martin-eden/autoldoc) - automatically place LDoc comments in Lua source file
   * [workshop](https://github.com/martin-eden/workshop) - code hive. Resource base for most of my projects.
-    
-* World of Warcraft-related
-  * [pet_aux](https://github.com/martin-eden/pet_aux) - bulk download WoW auctions and get a list of pet prices
-  * [pet_species_to_csv](https://github.com/martin-eden/pet_species_to_csv) - download WoW pets list for analysis
   
 * Hearthstone
   * [hearthstone_cards_named](https://github.com/martin-eden/hearthstone_cards_named) - card images grouped by expansions and classes and properly named
