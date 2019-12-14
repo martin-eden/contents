@@ -5,6 +5,8 @@
   * [autoldoc](https://github.com/martin-eden/autoldoc) - automatically place LDoc comments in Lua source file
   * [workshop](https://github.com/martin-eden/workshop) - code hive. Resource base for most of my projects.
   
+* Low level
+  * [DS3231 GUI](https://github.com/martin-eden/tekui_ds3231) - graphical interface to manage real-time clock module based on DS3231 integrated circuit
 * Hearthstone
   * [hearthstone_cards_named](https://github.com/martin-eden/hearthstone_cards_named) - card images grouped by expansions and classes and properly named
   * [heartstone_cards_renamer](https://github.com/martin-eden/hearthstone_cards_renamer) - Bash/Lua scripts to retrieve and rename card images
