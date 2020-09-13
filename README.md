@@ -1,12 +1,12 @@
 * Lua codebase
-  * [lua code formatter](https://github.com/martin-eden/lua_code_formatter) - reformat Lua code. Currently most popular repository.
+  * [lua code formatter](https://github.com/martin-eden/lua_code_formatter) - reformat Lua code. (Currently most popular repository.)
     * [command-line generator for code formatter](https://github.com/martin-eden/lcf_params_gui) - GUI to generate Bash command line for Lua code formatter. Possibly nicer way to learn than reading screen help.
   * [lua table serializer](https://github.com/martin-eden/lua_table_serializer) - store table as loadable string with Lua code
   * [autoldoc](https://github.com/martin-eden/autoldoc) - automatically place LDoc comments in Lua source file
   * [workshop](https://github.com/martin-eden/workshop) - code hive. Resource base for most of my projects.
   
 * Low-level
-  * [DS3231 GUI](https://github.com/martin-eden/tekui_ds3231) - graphical interface to manage real-time clock module based on DS3231 integrated circuit
+  * [DS3231 GUI](https://github.com/martin-eden/tekui_ds3231) - graphical interface to manage real-time clock module DS3231. (I like it.)
   * [arduino sketchbook](https://github.com/martin-eden/arduino_sketchbook) - mess of my C sketches/libraries for Arduino.
 
 * one-time random activities
