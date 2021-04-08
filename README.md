@@ -1,18 +1,18 @@
 * Lua tributes
-  * [lua code formatter](https://github.com/martin-eden/lua_code_formatter) - reformat Lua code. (Currently most popular repository.)
+  * [Lua code formatter](https://github.com/martin-eden/lua_code_formatter) - reformat Lua code. (Currently most popular repository.)
     * [command-line generator for code formatter](https://github.com/martin-eden/lcf_params_gui) - GUI to generate Bash command line for Lua code formatter. Possibly nicer way to learn than reading screen help.
-  * [lua table serializer](https://github.com/martin-eden/lua_table_serializer) - store table as loadable string with Lua code
-  * [autoldoc](https://github.com/martin-eden/autoldoc) - automatically place LDoc comments in Lua source file
-  * [workshop](https://github.com/martin-eden/workshop) - code hive. Resource base for most of my projects.
+  * [Lua table serializer](https://github.com/martin-eden/lua_table_serializer) - store table as loadable string with Lua code
+  * [Autoldoc](https://github.com/martin-eden/autoldoc) - automatically place LDoc comments in Lua source file
+  * [Workshop](https://github.com/martin-eden/workshop) - code hive. Resource base for most of my projects.
   
 * Low-level
   * [DS3231 GUI](https://github.com/martin-eden/tekui_ds3231) - graphical interface to manage real-time clock module DS3231. (I like it.)
-  * [arduino sketchbook](https://github.com/martin-eden/arduino_sketchbook) - mess of my C sketches/libraries for Arduino.
+  * [Arduino sketchbook](https://github.com/martin-eden/arduino_sketchbook) - mess of my C sketches/libraries for Arduino.
 
 * Texts
-  * [tagging style](https://github.com/martin-eden/tagging_guideline) - some system for describing commits
-  * [zip format docs](https://github.com/martin-eden/zipfiles_format_doc) - official text docs with my .pdf equivalents
-  * [Firmata communication protocol description](https://github.com/martin-eden/firmata_protocol/blob/main/protocol.md)
+  * [Tagging style](https://github.com/martin-eden/tagging_guideline) - some system for describing commits
+  * [Zip format docs](https://github.com/martin-eden/zipfiles_format_doc) - official text docs with my .pdf equivalents
+  * [Firmata protocol](https://github.com/martin-eden/firmata_protocol/blob/main/protocol.md) - my Firmata communication protocol descriton. Mostly related to Arduino world.
   
 * not my but also nice
   * tools
