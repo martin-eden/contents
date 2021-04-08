@@ -1,4 +1,4 @@
-* Lua codebase
+* Lua tributes
   * [lua code formatter](https://github.com/martin-eden/lua_code_formatter) - reformat Lua code. (Currently most popular repository.)
     * [command-line generator for code formatter](https://github.com/martin-eden/lcf_params_gui) - GUI to generate Bash command line for Lua code formatter. Possibly nicer way to learn than reading screen help.
   * [lua table serializer](https://github.com/martin-eden/lua_table_serializer) - store table as loadable string with Lua code
@@ -9,9 +9,10 @@
   * [DS3231 GUI](https://github.com/martin-eden/tekui_ds3231) - graphical interface to manage real-time clock module DS3231. (I like it.)
   * [arduino sketchbook](https://github.com/martin-eden/arduino_sketchbook) - mess of my C sketches/libraries for Arduino.
 
-* one-time random activities
+* Texts
   * [tagging style](https://github.com/martin-eden/tagging_guideline) - some system for describing commits
-  * [zip format docs](https://github.com/martin-eden/zipfiles_format_doc) - some official txt docs with self-made .pdf equivalents
+  * [zip format docs](https://github.com/martin-eden/zipfiles_format_doc) - official text docs with my .pdf equivalents
+  * [Firmata communication protocol description](https://github.com/martin-eden/firmata_protocol/blob/main/protocol.md)
   
 * not my but also nice
   * tools
