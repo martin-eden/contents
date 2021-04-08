@@ -12,7 +12,7 @@
 * Texts
   * [Tagging style](https://github.com/martin-eden/tagging_guideline) - some system for describing commits
   * [Zip format docs](https://github.com/martin-eden/zipfiles_format_doc) - official text docs with my .pdf equivalents
-  * [Firmata protocol](https://github.com/martin-eden/firmata_protocol/blob/main/protocol.md) - my Firmata communication protocol descriton. Mostly related to Arduino world.
+  * [Firmata protocol](https://github.com/martin-eden/firmata_protocol/blob/main/protocol.md) - my Firmata communication protocol description. Mostly related to Arduino world.
   
 * not my but also nice
   * tools
