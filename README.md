@@ -18,10 +18,10 @@
   
 * not my but also nice
   * tools
+    * [Lua](https://github.com/lua/lua) - thanks Roberto for elegant language!
     * [FreePascal](https://github.com/fpc/FPCSource)
     * [GNU compilers collection](https://github.com/gcc-mirror/gcc)
     * [git](https://github.com/git/git) - thanks Linus for implementation of versioned filesystem
-    * [lua](https://github.com/lua/lua) - thanks Roberto for elegant language!
     * [linux](https://github.com/torvalds/linux) - thanks Linus for OS core
   * Lua 
     * language resources, FAQs, link collections
