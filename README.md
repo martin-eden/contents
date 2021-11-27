@@ -18,7 +18,6 @@
   
 * not my but also nice
   * tools
-    * [FreePascal](https://github.com/graemeg/freepascal)
     * [GNU compilers collection](https://github.com/gcc-mirror/gcc)
     * [git](https://github.com/git/git) - thanks Linus for implementation of versioned filesystem
     * [lua](https://github.com/lua/lua) - thanks Roberto for elegant language!
