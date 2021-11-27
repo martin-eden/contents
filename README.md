@@ -1,4 +1,4 @@
-* Lua tributes
+* Lua
   * [Lua code formatter](https://github.com/martin-eden/lua_code_formatter) - reformat Lua code. (Currently most popular repository.)
     * [command-line generator for code formatter](https://github.com/martin-eden/lcf_params_gui) - GUI to generate Bash command line for Lua code formatter. Possibly nicer way to learn than reading screen help.
   * [Lua table serializer](https://github.com/martin-eden/lua_table_serializer) - store table as loadable string with Lua code
@@ -10,9 +10,11 @@
   * [Arduino sketchbook](https://github.com/martin-eden/arduino_sketchbook) - mess of my C sketches/libraries for Arduino.
 
 * Texts
-  * [Tagging style](https://github.com/martin-eden/tagging_guideline) - some system for describing commits
-  * [Zip format docs](https://github.com/martin-eden/zipfiles_format_doc) - official text docs with my .pdf equivalents
-  * [Firmata protocol](https://github.com/martin-eden/firmata_protocol/blob/main/protocol.md) - my Firmata communication protocol description. Mostly related to Arduino world.
+  * Reference docs
+    * [Zip format](https://github.com/martin-eden/zipfiles_format_doc) - official text docs with my .pdf equivalents
+    * [DS3231](https://github.com/martin-eden/doc.ds3231) - datasheet for real time clock chip DS3231
+  * [Tagging style](https://github.com/martin-eden/tagging_guideline) - system of marking commit messages
+  * [Firmata protocol](https://github.com/martin-eden/firmata_protocol/blob/main/protocol.md) - Firmata protocol description. (Firmata protocol is related to Arduino world.)
   
 * not my but also nice
   * tools
