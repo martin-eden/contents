@@ -19,6 +19,7 @@
 * not my but also nice
   * tools
     * [Lua](https://github.com/lua/lua) - thanks Roberto for elegant language!
+      * [LuaGLM](https://github.com/gottfriedleibniz/lua) - math-tuned fork of Lua
     * [FreePascal](https://github.com/fpc/FPCSource)
     * [GNU compilers collection](https://github.com/gcc-mirror/gcc)
     * [git](https://github.com/git/git) - thanks Linus for implementation of versioned filesystem
