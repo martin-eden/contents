@@ -9,7 +9,7 @@
   * [DS3231 GUI](https://github.com/martin-eden/tekui_ds3231) - graphical interface to manage real-time clock module DS3231. (I like it.)
   * [Arduino sketchbook](https://github.com/martin-eden/arduino_sketchbook) - mess of my C sketches/libraries for Arduino.
 
-* Texts
+* Docs
   * Reference docs
     * [Zip format](https://github.com/martin-eden/zipfiles_format_doc) - official text docs with my .pdf equivalents
     * [DS3231](https://github.com/martin-eden/doc.ds3231) - datasheet for real time clock chip DS3231
