@@ -5,7 +5,7 @@
   * [Autoldoc](https://github.com/martin-eden/autoldoc) - automatically place LDoc comments in Lua source file
   * [Workshop](https://github.com/martin-eden/workshop) - code hive. Resource base for most of my projects.
   
-* Low-level
+* Arduino
   * [DS3231 GUI](https://github.com/martin-eden/tekui_ds3231) - graphical interface to manage real-time clock module DS3231. (I like it.)
   * [Arduino sketchbook](https://github.com/martin-eden/arduino_sketchbook) - mess of my C sketches/libraries for Arduino.
 
