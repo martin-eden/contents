@@ -39,6 +39,9 @@
       * [graph planar representation](https://github.com/rm-code/Graphoon) `Graphoon` by `Robert Machmer`
       * [table serializer](https://github.com/gvx/Ser) `Ser` by `gvx`
       * [lua parser](https://github.com/andremm/lua-parser) by `Andre Murbach`
+    * transpilers
+      * [Fengari](https://github.com/fengari-lua/fengari) by `daurnimator` -- run Lua in browser
+      * [LuaJIT](https://github.com/LuaJIT/LuaJIT) by `Mike Pall` -- performance-oriented Lua v5.2
   * good people repositories
     * [data serizalizer](https://github.com/sandstorm-io/capnproto) `canproto` by `Kenton Varda`
     * [cryptoroutines in C](https://github.com/philanc/luanacha) `luanacha` by `philanc`
