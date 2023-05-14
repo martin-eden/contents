@@ -1,9 +1,10 @@
 * Lua
   * [Lua code formatter](https://github.com/martin-eden/lua_code_formatter) - reformat Lua code. (Currently most popular repository.)
     * [command-line generator for code formatter](https://github.com/martin-eden/lcf_params_gui) - GUI to generate Bash command line for Lua code formatter. Possibly nicer way to learn than reading screen help.
+  * [Interface to Firmata](https://github.com/martin-eden/FirmataAmbassador) - sort of "Ambassador" to do useful things via dreadful Firmata protocol (WIP)
+  * [Workshop](https://github.com/martin-eden/workshop) - My personal Lua framework. (It's internal project, not a framework I want to release.)
   * [Lua table serializer](https://github.com/martin-eden/lua_table_serializer) - store table as loadable string with Lua code
   * [Autoldoc](https://github.com/martin-eden/autoldoc) - automatically place LDoc comments in Lua source file
-  * [Workshop](https://github.com/martin-eden/workshop) - My personal Lua framework. (It's internal project, not a framework I want to release.)
   
 * Arduino
   * [DS3231 GUI](https://github.com/martin-eden/tekui_ds3231) - graphical interface to manage real-time clock module DS3231. (I like it.)
