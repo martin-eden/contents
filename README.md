@@ -1,13 +1,68 @@
 * Lua
-  * [Lua code formatter](https://github.com/martin-eden/lua_code_formatter) - reformat Lua code. (Currently most popular repository.)
-    * [Command-line generator for code formatter](https://github.com/martin-eden/lcf_params_gui) - GUI to generate Bash command line for Lua code formatter. Possibly nicer way to learn than reading screen help.
-  * [Interface to Firmata](https://github.com/martin-eden/FirmataAmbassador) - sort of "Ambassador" to do useful things via dreadful Firmata protocol (WIP)
-  * [Workshop](https://github.com/martin-eden/workshop) - My personal Lua framework. (It's internal project, not a framework I want to release.)
-  * [Lua table serializer](https://github.com/martin-eden/lua_table_serializer) - store table as loadable string with Lua code
-  * [Autoldoc](https://github.com/martin-eden/autoldoc) - automatically place LDoc comments in Lua source file
-  
-* Arduino
-  * [DS3231 GUI](https://github.com/martin-eden/tekui_ds3231) - graphical interface to manage real-time clock module DS3231. (I like it.)
+
+  * [Lua code formatter (lcf)](https://github.com/martin-eden/lua_code_formatter)
+
+    Parses source text to AST, transforms AST, compiles back to source text.
+
+    Released somewhere in 2016 but still one of the best projects I've
+    made. Tried many invented design patterns there. And also the
+    general program workflow is not trivial.
+
+    Satellite projects
+
+    * [Lua table serializer](https://github.com/martin-eden/lua_table_serializer)
+
+      Serialize Lua table to text. Text is source code that recreates this table.
+
+      Tables in Lua can contain cycles, so you can't serialize them to
+      data format like JSON. Describing cycles was interesting
+      challenge.
+
+    * [Autoldoc](https://github.com/martin-eden/autoldoc)
+
+      Automatically place LDoc comments in Lua source file.
+
+      Was using AST from my code formatter to scan it for context and for
+      places to insert comments.
+
+    * [Command-line generator for lcf](https://github.com/martin-eden/lcf_params_gui)
+
+      GUI to generate Bash command line for Lua code formatter.
+
+      Was playing with TekUI(Lua/C) library. Has wrappers over library but code is abandoned.
+
+  * [DS3231 GUI](https://github.com/martin-eden/tekui_ds3231)
+
+    Graphical interface to hardware real-time clock module DS3231.
+    (Hardware host part is Firmata-compatible board.)
+
+    Playing with I2C channel from Arduino (Firmata), implementing module
+    state parser/compiler in Lua and linking structured data to UI
+    (via TekUI). Was pleasant experience.
+
+  * [Interface to Firmata](https://github.com/martin-eden/FirmataAmbassador)
+
+    Sort of "Ambassador" to do useful things via dreadful Firmata protocol.
+
+    Harnessing Firmata protocol. Protocol parser/compiler. Reimplemented
+    in a sane way.
+
+    I don't like Firmata protocol design. I've threw my previous
+    close-to-protocol implementation and switched focus to
+    easy-to-understand interface.
+
+    Recent library nut not properly announced yet.
+
+  * [Workshop](https://github.com/martin-eden/workshop)
+
+    My Lua code hive.
+
+    I'm keeping all my source code open. This repository contains all
+    libraty-code that is used in projects. But I'm not going to name
+    it framework. Just set of personal tools.
+
+* C++: Arduino(ATMega328P) and Esplora(ESP8266)
+  * [Willy](https://github.com/martin-eden/willy) - two wheeled rover
   * [Arduino sketchbook](https://github.com/martin-eden/arduino_sketchbook) - mess of my C sketches/libraries for Arduino.
 
 * Docs
@@ -16,7 +71,7 @@
     * [DS3231](https://github.com/martin-eden/doc.ds3231) - datasheet for real time clock chip DS3231
   * [Tagging style](https://github.com/martin-eden/tagging_guideline) - system of marking commit messages
   * [Firmata protocol](https://github.com/martin-eden/firmata_protocol/blob/main/protocol.md) - Firmata protocol description. (Firmata protocol is related to Arduino world.)
-  
+
 * not my but also nice
   * tools
     * [Lua](https://github.com/lua/lua) - thanks Roberto for elegant language!
@@ -25,7 +80,7 @@
     * [GNU compilers collection](https://github.com/gcc-mirror/gcc)
     * [git](https://github.com/git/git) - thanks Linus for implementation of versioned filesystem
     * [linux](https://github.com/torvalds/linux) - thanks Linus for OS core
-  * Lua 
+  * Lua
     * language resources, FAQs, link collections
       * [Lua FAQ](https://github.com/stevedonovan/luafaq) by `Steve Donovan`
       * [Lua glossary](https://rawgit.com/dlaurie/lua-notes/master/glossary.html) by `Dirk Laurie ♰`
