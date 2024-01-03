@@ -80,11 +80,14 @@
 
   * [Arduino sketchbook](https://github.com/martin-eden/arduino_sketchbook)
 
-    Mess of my C sketches/libraries for Arduino. Someday I'll clean this up! (Or at least will make it cleaner.)
+    Mess of my C sketches/libraries for Arduino. Someday I'll clean this up!
+    (Or at least will make it cleaner.)
 
     That's a lot worse than my Lua "workshop". All code since the dawn
-    when I started relations with Arduino and was forced to write in
-    C/C++. But recent libraries there is not bad at experimental design.
+    of 2015s when I started relations with Arduino and was forced to write in
+    C/C++. (Was writing in Pascal/Delphi before.)
+
+    But recent libraries there are not bad at experimental design.
 
 * Texts
 
