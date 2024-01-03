@@ -80,7 +80,7 @@
 
   * [Arduino sketchbook](https://github.com/martin-eden/arduino_sketchbook)
 
-    Mess of my C sketches/libraries for Arduino.
+    Mess of my C sketches/libraries for Arduino. Someday I'll clean this up! (Or at least will make it cleaner.)
 
     That's a lot worse than my Lua "workshop". All code since the dawn
     when I started relations with Arduino and was forced to write in
