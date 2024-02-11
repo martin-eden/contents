@@ -40,7 +40,7 @@
     state parser/compiler in Lua and linking structured data to UI
     (via TekUI). Was pleasant experience.
 
-  * [Interface to Firmata](https://github.com/martin-eden/FirmataAmbassador)
+  * [Firmata ambassador](https://github.com/martin-eden/FirmataAmbassador)
 
     Sort of "Ambassador" to do useful things via dreadful Firmata protocol.
 
@@ -52,6 +52,13 @@
     easy-to-understand interface.
 
     Recent library but not properly announced yet.
+
+  * Not prepared
+
+    * [Lightday](https://github.com/martin-eden/lightday)
+
+      TekUI to calculate length of lighday. (Depending of data, latitude
+      and longitude.)
 
   * [Workshop](https://github.com/martin-eden/workshop)
 
@@ -88,6 +95,23 @@
     C/C++. (Was writing in Pascal/Delphi before.)
 
     But recent libraries there are not bad at experimental design.
+
+* Games
+
+  World of Warcraft and Hearthstone-related side scripts.
+
+  Currently I do not play these games (and Blizzard banned my several
+  accounts). But the effort was spend so they are public archives.
+
+  Stack is Lua, Bash (and parallel).
+
+  * [Hearthstone cards renamer](https://github.com/martin-eden/hearthstone_cards_renamer)
+
+    * [Hearthstone cards images](https://github.com/martin-eden/hearthstone_cards_named)
+
+  * [Warcraft. Retrieve auction data for pets](https://github.com/martin-eden/pet_aux)
+
+  * [Warcraft. Get general data about pets](https://github.com/martin-eden/pet_species_to_csv)
 
 * Texts
 
