@@ -47,21 +47,19 @@
     Harnessing Firmata protocol. Protocol parser/compiler. Reimplemented
     in a sane way.
 
-    I don't like Firmata protocol design. I've threw my previous
+    I don't like Firmata protocol design. I threw my previous
     close-to-protocol implementation and switched focus to
     easy-to-understand interface.
 
-    Recent library nut not properly announced yet.
+    Recent library but not properly announced yet.
 
   * [Workshop](https://github.com/martin-eden/workshop)
 
-    My Lua code hive.
+    Personal codebase for Lua projects.
 
-    I'm keeping all my source code open. This repository contains all
-    libraty-code that is used in projects. But I'm not going to name
-    it framework. Just set of personal tools.
+    My Lua code hive. That's evolution, not design.
 
-* C++: Arduino(ATMega328P) and Esplora(ESP8266)
+* Embedded C++: Arduino(ATMega328P) and Esplora(ESP8266)
 
   * [Willy](https://github.com/martin-eden/willy)
 
@@ -78,7 +76,9 @@
     designing WiFi interface classet in C++. Was not proper announced
     yet.
 
-  * [Arduino sketchbook](https://github.com/martin-eden/arduino_sketchbook)
+  * [Sketchbook](https://github.com/martin-eden/arduino_sketchbook)
+
+    Personal codebase for embedded C++ projects.
 
     Mess of my C sketches/libraries for Arduino. Someday I'll clean this up!
     (Or at least will make it cleaner.)
