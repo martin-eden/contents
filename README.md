@@ -51,8 +51,6 @@
     close-to-protocol implementation and switched focus to
     easy-to-understand interface.
 
-    Recent library but not properly announced yet.
-
   * Not prepared
 
     * [Lightday](https://github.com/martin-eden/lightday)
