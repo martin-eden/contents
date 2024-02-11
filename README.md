@@ -128,29 +128,25 @@
 
     I've tried to describe protocol from my conspects and Lua implementations.
 
-* Just a handy links, not mine
+  * Minor
+    * Reference docs
+      * [Zip format](https://github.com/martin-eden/zipfiles_format_doc) - official text docs with my .pdf equivalents
+      * [DS3231](https://github.com/martin-eden/doc.ds3231) - datasheet for real time clock chip DS3231
 
-  * Reference docs
-    * [Zip format](https://github.com/martin-eden/zipfiles_format_doc) - official text docs with my .pdf equivalents
-    * [DS3231](https://github.com/martin-eden/doc.ds3231) - datasheet for real time clock chip DS3231
+* Links to other resources I value
 
   * Tools
     * [Lua](https://github.com/lua/lua) - thanks Roberto for elegant language!
       * [LuaGLM](https://github.com/gottfriedleibniz/lua) - math-tuned fork of Lua
     * [FreePascal](https://github.com/fpc/FPCSource)
-    * [GNU compilers collection](https://github.com/gcc-mirror/gcc)
-    * [git](https://github.com/git/git) - thanks Linus for implementation of versioned filesystem
+    * [GNU compilers collection](https://github.com/gcc-mirror/gcc) - thank you Richard for making open-source practical!
     * [linux](https://github.com/torvalds/linux) - thanks Linus for OS core
+    * [git](https://github.com/git/git) - thanks Linus for implementation of versioned filesystem
 
   * Lua
-    * Language resources, FAQs, link collections
-      * [Lua FAQ](https://github.com/stevedonovan/luafaq) by `Steve Donovan`
-      * [Lua glossary](https://rawgit.com/dlaurie/lua-notes/master/glossary.html) by `Dirk Laurie ♰`
-      * [links collection](https://github.com/LewisJEllis/awesome-lua) by `Lewis J Ellis`
-      * [code style guide](https://github.com/Olivine-Labs/lua-style-guide) by `Olivine Labs` group
     * Tools, libraries
+      * [lhf's tools](http://webserver2.tecgraf.puc-rio.br/~lhf/ftp/lua/) from language coauthor, `Luiz Henrique de Figueiredo`
       * [compiled Windows binaries](https://github.com/WinLua/bin) `WinLua` by `Russel Halley`
-      * [tools](http://webserver2.tecgraf.puc-rio.br/~lhf/ftp/lua/) from language coauthor, `Luiz Henrique de Figueiredo`
       * [cryptoroutines](https://github.com/philanc/plc) `plc` by `philanc`
       * [graph planar representation](https://github.com/rm-code/Graphoon) `Graphoon` by `Robert Machmer`
       * [table serializer](https://github.com/gvx/Ser) `Ser` by `gvx`
@@ -158,8 +154,13 @@
     * Transpilers
       * [Fengari](https://github.com/fengari-lua/fengari) by `daurnimator` -- run Lua in browser
       * [LuaJIT](https://github.com/LuaJIT/LuaJIT) by `Mike Pall` -- performance-oriented Lua v5.2
+    * Language resources, FAQs, link collections
+      * [Lua FAQ](https://github.com/stevedonovan/luafaq) by `Steve Donovan`
+      * [Lua glossary](https://rawgit.com/dlaurie/lua-notes/master/glossary.html) by `Dirk Laurie ♰`
+      * [links collection](https://github.com/LewisJEllis/awesome-lua) by `Lewis J Ellis`
+      * [code style guide](https://github.com/Olivine-Labs/lua-style-guide) by `Olivine Labs` group
 
-  * Good people repositories
+  * Other good people repositories
     * [data serizalizer](https://github.com/sandstorm-io/capnproto) `canproto` by `Kenton Varda`
     * [cryptoroutines in C](https://github.com/philanc/luanacha) `luanacha` by `philanc`
     * [hashes in C](https://github.com/rhash/RHash/tree/master/librhash) by `Alexey Kravchenko`
