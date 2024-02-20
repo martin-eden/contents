@@ -66,6 +66,12 @@
 
 * Embedded C++: Arduino(ATMega328P) and Esplora(ESP8266)
 
+  * Libraries
+
+    * [me_Types](https://github.com/martin-eden/EmbeddedCpp_me_Types)
+
+      Base types for other code.
+
   * [Willy](https://github.com/martin-eden/willy)
 
     Two wheeled rover.
