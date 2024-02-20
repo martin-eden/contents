@@ -72,6 +72,10 @@
 
       Base types for other code.
 
+    * [me_WifiShip](https://github.com/martin-eden/EmbeddedCpp_me_WifiShip)
+
+      Esplora. Get/set MAC, scan, connect to router, get IP.
+
   * [Willy](https://github.com/martin-eden/willy)
 
     Two wheeled rover.
