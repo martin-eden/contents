@@ -51,12 +51,10 @@
     close-to-protocol implementation and switched focus to
     easy-to-understand interface.
 
-  * Not prepared
+  * [Lightday](https://github.com/martin-eden/lightday)
 
-    * [Lightday](https://github.com/martin-eden/lightday)
-
-      TekUI to calculate length of lighday. (Depending of data, latitude
-      and longitude.)
+    TekUI to calculate length of lightday. (Depending of latitude
+    and day number.)
 
   * [Workshop](https://github.com/martin-eden/workshop)
 
