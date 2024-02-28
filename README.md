@@ -1,5 +1,20 @@
 * Lua
 
+  There are three types of my Lua code assemblies.
+
+  First is "workshop", it is my personal Lua framework. Mix of different
+  design decisions in my Lua journey. Contains essential pieces for
+  all projects I've done.
+
+  Second is "released projects". They are self-contained solutions having in
+  repository all the code they need and no dead code. Many are experimental,
+  some are utilitarian.
+
+  Third is "unreleased projects". I'm not considering them ready to be
+  released but they are still public, I don't have any private repos.
+  Some are abandoned/frozen, some are alive. If you want to try them,
+  you need to clone "workshop" too.
+
   * [Lua code formatter (lcf)](https://github.com/martin-eden/lua_code_formatter)
 
     Parses source text to AST, transforms AST, compiles back to source text.
