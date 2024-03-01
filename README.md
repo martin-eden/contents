@@ -16,6 +16,7 @@
   you need to clone "workshop" too.
 
   * [Lua code formatter (lcf)](https://github.com/martin-eden/lua_code_formatter)
+    (2016-08/2017-01)
 
     Parses source text to AST, transforms AST, compiles back to source text.
 
@@ -26,6 +27,7 @@
     Satellite projects
 
     * [Lua table serializer](https://github.com/martin-eden/lua_table_serializer)
+      (2017-05)
 
       Serialize Lua table to text. Text is source code that recreates this table.
 
@@ -34,6 +36,7 @@
       challenge.
 
     * [Autoldoc](https://github.com/martin-eden/autoldoc)
+      (2017-08)
 
       Automatically place LDoc comments in Lua source file.
 
@@ -41,12 +44,14 @@
       places to insert comments.
 
     * [Command-line generator for lcf](https://github.com/martin-eden/lcf_params_gui)
+      (2018-07)
 
       GUI to generate Bash command line for Lua code formatter.
 
       Was playing with TekUI(Lua/C) library. Has wrappers over library but code is abandoned.
 
   * [DS3231 GUI](https://github.com/martin-eden/tekui_ds3231)
+    (2019-12/2020-01)
 
     Graphical interface to hardware real-time clock module DS3231.
     (Hardware host part is Firmata-compatible board.)
@@ -56,6 +61,7 @@
     (via TekUI). Was pleasant experience.
 
   * [Firmata ambassador](https://github.com/martin-eden/FirmataAmbassador)
+    (2023-06)
 
     Sort of "Ambassador" to do useful things via dreadful Firmata protocol.
 
@@ -67,11 +73,13 @@
     easy-to-understand interface.
 
   * [Lightday](https://github.com/martin-eden/lightday)
+    (2020-03)
 
     TekUI to calculate length of lightday. (Depending of latitude
     and day number.)
 
   * [Workshop](https://github.com/martin-eden/workshop)
+    (Since 2016-09. But core parts started since my Lua journey, 2013)
 
     Personal codebase for Lua projects.
 
@@ -82,14 +90,17 @@
   * Libraries
 
     * [me_Types](https://github.com/martin-eden/EmbeddedCpp_me_Types)
+      (2024-02)
 
       Base types for other code.
 
     * [me_WifiShip](https://github.com/martin-eden/EmbeddedCpp_me_WifiShip)
+      (2024-02)
 
       Esplora. Get/set MAC, scan, connect to router, get IP.
 
   * [Willy](https://github.com/martin-eden/willy)
+    (2023-12, WIP)
 
     Two wheeled rover.
 
@@ -105,6 +116,7 @@
     yet.
 
   * [Sketchbook](https://github.com/martin-eden/arduino_sketchbook)
+    (Since 2017-07.)
 
     Personal codebase for embedded C++ projects.
 
@@ -127,16 +139,21 @@
   Stack is Lua, Bash (and parallel).
 
   * [Hearthstone cards renamer](https://github.com/martin-eden/hearthstone_cards_renamer)
+    (2018-05)
 
     * [Hearthstone cards images](https://github.com/martin-eden/hearthstone_cards_named)
+      (2018-04)
 
   * [Warcraft. Retrieve auction data for pets](https://github.com/martin-eden/pet_aux)
+    (2016-06)
 
   * [Warcraft. Get general data about pets](https://github.com/martin-eden/pet_species_to_csv)
+    (2016-06)
 
 * Texts
 
   * [Tagging style](https://github.com/martin-eden/tagging_guideline)
+    (2016-07)
 
     System of marking commit messages.
 
@@ -144,6 +161,7 @@
     read if you wonder about syntax in my git commit messages.
 
   * [Firmata protocol](https://github.com/martin-eden/firmata_protocol/blob/main/protocol.md)
+    (2021-08, 2023-05)
 
     Firmata protocol description. (Firmata protocol is related to Arduino world.)
 
