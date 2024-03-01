@@ -15,6 +15,13 @@
   Some are abandoned/frozen, some are alive. If you want to try them,
   you need to clone "workshop" too.
 
+  * [Workshop](https://github.com/martin-eden/workshop)
+    (Since 2016-09. But core parts started since my Lua journey, 2013)
+
+    Personal codebase for Lua projects.
+
+    My Lua code hive. That's evolution, not design.
+
   * [Lua code formatter (lcf)](https://github.com/martin-eden/lua_code_formatter)
     (2016-08/2017-01)
 
@@ -60,6 +67,12 @@
     state parser/compiler in Lua and linking structured data to UI
     (via TekUI). Was pleasant experience.
 
+  * [Lightday](https://github.com/martin-eden/lightday)
+    (2020-03)
+
+    TekUI to calculate length of lightday. (Depending of latitude
+    and day number.)
+
   * [Firmata ambassador](https://github.com/martin-eden/FirmataAmbassador)
     (2023-06)
 
@@ -72,18 +85,14 @@
     close-to-protocol implementation and switched focus to
     easy-to-understand interface.
 
-  * [Lightday](https://github.com/martin-eden/lightday)
-    (2020-03)
+  * [ArduinoLibGenerator](https://github.com/martin-eden/ArduinoLibGenerator)
+    (2024-02, WIP)
 
-    TekUI to calculate length of lightday. (Depending of latitude
-    and day number.)
+    Tool to generate library description file for ArduinoIDE. Source
+    data for library description is structured Lua table.
 
-  * [Workshop](https://github.com/martin-eden/workshop)
-    (Since 2016-09. But core parts started since my Lua journey, 2013)
-
-    Personal codebase for Lua projects.
-
-    My Lua code hive. That's evolution, not design.
+    Yo dawg i herd you dont like writing one-dimensional .ini files,
+    not real programmers job?
 
 * Embedded C++: Arduino(ATMega328P) and Esplora(ESP8266)
 
