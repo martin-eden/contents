@@ -7,18 +7,14 @@
   projects I've done.
 
   Second is "released projects". They are self-contained solutions
-  having in repository all the code they need and no dead code. Many
-  are experimental, some are utilitarian. They have "workshop"
-  directory.
+  having in repository all the code they need and no dead code. Frozen
+  in their time. They have "workshop" directory.
 
-  Third is "unreleased projects". They don't have "workshop" directory,
-  so you need to clone that repo if you want to tinker with them. They
-  are considered WIP and so expected to grow to "released projects" and
-  get their own "workshop" snapshot.
-
-  I'm
-  not considering them ready to be released but they are still public.
-  Some are abandoned/frozen, some are alive.
+  Third is "unreleased projects". They are considered WIP and so
+  expected to grow to "released projects" and get their own "workshop"
+  snapshot. I'm mentioning them here mostly for my own convenience, huh.
+  They don't have "workshop" directory, so you need to clone that repo
+  if you want to tinker with them.
 
   * [Workshop](https://github.com/martin-eden/workshop)
     (Since 2016-09. But core parts started since my Lua journey, 2013)
@@ -32,19 +28,19 @@
 
     Parses source text to AST, transforms AST, compiles back to source text.
 
-    Released somewhere in 2016 but still one of the best projects I've
-    made. Tried many invented design patterns there. And also the
-    general program workflow is not trivial.
+    Still one of the best projects I've made. Core is my grammar parser
+    with two main modes (sequence and choice) and one flag (repeat). Like
+    LPEG but different. Also invented and tried many design patters there.
 
     Satellite projects
 
     * [Lua table serializer](https://github.com/martin-eden/lua_table_serializer)
       (2017-05)
 
-      Serialize Lua table to text. Text is source code that recreates this table.
+      Serialize Lua table to source code that recreates this table.
 
       Tables in Lua can contain cycles, so you can't serialize them to
-      data format like JSON. Describing cycles was interesting
+      data format like JSON. Dealing with cycles was challenging
       challenge.
 
     * [Autoldoc](https://github.com/martin-eden/autoldoc)
@@ -52,15 +48,16 @@
 
       Automatically place LDoc comments in Lua source file.
 
-      Was using AST from my code formatter to scan it for context and for
-      places to insert comments.
+      Mostly POC, I'm not using auto-documenters as a class. Used AST
+      from my code formatter to locate places where to insert
+      documentation comments.
 
     * [Command-line generator for lcf](https://github.com/martin-eden/lcf_params_gui)
       (2018-07)
 
       GUI to generate Bash command line for Lua code formatter.
 
-      Was playing with TekUI(Lua/C) library. Has wrappers over library but code is abandoned.
+      Was playing with TekUI(Lua/C) library.
 
   * [DS3231 GUI](https://github.com/martin-eden/tekui_ds3231)
     (2019-12/2020-01)
@@ -68,9 +65,9 @@
     Graphical interface to hardware real-time clock module DS3231.
     (Hardware host part is Firmata-compatible board.)
 
-    Playing with I2C channel from Arduino (Firmata), implementing module
-    state parser/compiler in Lua and linking structured data to UI
-    (via TekUI). Was pleasant experience.
+    I2C channel from Firmata (in Arduino), USB connection, data
+    parser/compiler in Lua and representation of structured data in
+    TekUI. Then data goes back on the chain. Was pleasant experience.
 
   * [Lightday](https://github.com/martin-eden/lightday)
     (2020-03)
@@ -83,11 +80,8 @@
 
     Sort of "Ambassador" to do useful things via dreadful Firmata protocol.
 
-    Harnessing Firmata protocol. Protocol parser/compiler. Reimplemented
-    in a sane way.
-
-    I don't like Firmata protocol design. I threw my previous
-    close-to-protocol implementation and switched focus to
+    Protocol parser/compiler. Reimplemented in a sane way. I threw my
+    previous close-to-protocol implementation and switched focus to
     easy-to-understand interface.
 
   * [ArduinoLibGenerator](https://github.com/martin-eden/ArduinoLibGenerator)
