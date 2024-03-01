@@ -3,17 +3,22 @@
   There are three types of my Lua code assemblies.
 
   First is "workshop", it is my personal Lua framework. Mix of different
-  design decisions in my Lua journey. Contains essential pieces for
-  all projects I've done.
+  design decisions in my Lua journey. Contains essential pieces for all
+  projects I've done.
 
-  Second is "released projects". They are self-contained solutions having in
-  repository all the code they need and no dead code. Many are experimental,
-  some are utilitarian.
+  Second is "released projects". They are self-contained solutions
+  having in repository all the code they need and no dead code. Many
+  are experimental, some are utilitarian. They have "workshop"
+  directory.
 
-  Third is "unreleased projects". I'm not considering them ready to be
-  released but they are still public, I don't have any private repos.
-  Some are abandoned/frozen, some are alive. If you want to try them,
-  you need to clone "workshop" too.
+  Third is "unreleased projects". They don't have "workshop" directory,
+  so you need to clone that repo if you want to tinker with them. They
+  are considered WIP and so expected to grow to "released projects" and
+  get their own "workshop" snapshot.
+
+  I'm
+  not considering them ready to be released but they are still public.
+  Some are abandoned/frozen, some are alive.
 
   * [Workshop](https://github.com/martin-eden/workshop)
     (Since 2016-09. But core parts started since my Lua journey, 2013)
