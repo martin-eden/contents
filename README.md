@@ -85,7 +85,7 @@
     easy-to-understand interface.
 
   * [ArduinoLibGenerator](https://github.com/martin-eden/ArduinoLibGenerator)
-    (2024-02, WIP)
+    (2024-02/2024-03)
 
     Tool to generate library description file for ArduinoIDE. Source
     data for library description is structured Lua table.
