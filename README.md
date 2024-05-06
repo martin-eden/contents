@@ -17,14 +17,14 @@
   if you want to tinker with them.
 
   * [Workshop](https://github.com/martin-eden/workshop)
-    (Since 2016-09. But core parts started since my Lua journey, 2013)
+    (2016-09 .. )
 
     Personal codebase for Lua projects.
 
     My Lua code hive. That's evolution, not design.
 
   * [Lua code formatter (lcf)](https://github.com/martin-eden/lua_code_formatter)
-    (2016-08/2017-01)
+    (2016-08 .. 2017-01)
 
     Parses source text to AST, transforms AST, compiles back to source text.
 
@@ -60,7 +60,7 @@
       Was playing with TekUI(Lua/C) library.
 
   * [DS3231 GUI](https://github.com/martin-eden/tekui_ds3231)
-    (2019-12/2020-01)
+    (2019-12 .. 2020-01)
 
     Graphical interface to hardware real-time clock module DS3231.
     (Hardware host part is Firmata-compatible board.)
@@ -85,7 +85,7 @@
     easy-to-understand interface.
 
   * [ArduinoLibGenerator](https://github.com/martin-eden/ArduinoLibGenerator)
-    (2024-02/2024-03)
+    (2024-02 .. 2024-03)
 
     Tool to generate library description file for ArduinoIDE. Source
     data for library description is structured Lua table.
@@ -118,7 +118,7 @@
         Additional docs for WS2812B LED stripe library.
 
   * [Willy](https://github.com/martin-eden/willy)
-    (2023-12, WIP)
+    (2023-12 .. )
 
     Two wheeled rover.
 
@@ -134,7 +134,7 @@
     yet.
 
   * [Sketchbook](https://github.com/martin-eden/arduino_sketchbook)
-    (Since 2017-07.)
+    (2017-07 .. )
 
     Personal codebase for embedded C++ projects.
 
