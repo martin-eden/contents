@@ -107,10 +107,15 @@
 
       Esplora. Get/set MAC, scan, connect to router, get IP.
 
-    * [me_Ws2812b docs](https://github.com/martin-eden/EmbeddedCpp-me_Ws2812b-Docs)
-      (2024-05)
+    * [me_Ws2812b](https://github.com/martin-eden/EmbeddedCpp-me_Ws2812b)
+      (2024-03 .. 2024-05)
 
-      Additional docs for WS2812B LED stripe library.
+      AVR assembler. Write array at 800 kBits. Control RGB LED stripe.
+
+      * [me_Ws2812b docs](https://github.com/martin-eden/EmbeddedCpp-me_Ws2812b-Docs)
+        (2024-05)
+
+        Additional docs for WS2812B LED stripe library.
 
   * [Willy](https://github.com/martin-eden/willy)
     (2023-12, WIP)
