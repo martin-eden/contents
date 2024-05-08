@@ -10,11 +10,8 @@
   having in repository all the code they need and no dead code. Frozen
   in their time. They have "workshop" directory.
 
-  Third is "unreleased projects". They are considered WIP and so
-  expected to grow to "released projects" and get their own "workshop"
-  snapshot. I'm mentioning them here mostly for my own convenience, huh.
-  They don't have "workshop" directory, so you need to clone that repo
-  if you want to tinker with them.
+  Third is "unreleased projects". They are expected to use "workshop"
+  of their time. Development may happen there or may not.
 
   * [Workshop](https://github.com/martin-eden/workshop)
     (2016-09 .. )
@@ -28,7 +25,7 @@
 
     Parses source text to AST, transforms AST, compiles back to source text.
 
-    Still one of the best projects I've made. Core is my grammar parser
+    Still one of the best projects I ever made. Core is my grammar parser
     with two main modes (sequence and choice) and one flag (repeat). Like
     LPEG but different. Also invented and tried many design patters there.
 
@@ -48,8 +45,8 @@
 
       Automatically place LDoc comments in Lua source file.
 
-      Mostly POC, I'm not using auto-documenters as a class. Used AST
-      from my code formatter to locate places where to insert
+      Mostly POC, I'm not using auto-documenters as a class of tools.
+      Used AST from my code formatter to locate places where to insert
       documentation comments.
 
     * [Command-line generator for lcf](https://github.com/martin-eden/lcf_params_gui)
@@ -65,9 +62,9 @@
     Graphical interface to hardware real-time clock module DS3231.
     (Hardware host part is Firmata-compatible board.)
 
-    I2C channel from Firmata (in Arduino), USB connection, data
-    parser/compiler in Lua and representation of structured data in
-    TekUI. Then data goes back on the chain. Was pleasant experience.
+    I2C channel from Firmata (in Arduino) -- USB connection -- data
+    parser/compiler in Lua -- representation of structured data in
+    TekUI. Then data goes back. Was pleasant experience.
 
   * [Lightday](https://github.com/martin-eden/lightday)
     (2020-03)
@@ -75,10 +72,14 @@
     TekUI to calculate length of lightday. (Depending of latitude
     and day number.)
 
+    Was going to use calculations to emulate sun for my tomatoes growbox
+    but plain 16/8 worked better. And you will have troubles moving lamp
+    in circle in growbox anyway.
+
   * [Firmata ambassador](https://github.com/martin-eden/FirmataAmbassador)
     (2023-06)
 
-    Sort of "Ambassador" to do useful things via dreadful Firmata protocol.
+    Sort of "ambassador" to do useful things via dreadful Firmata protocol.
 
     Protocol parser/compiler. Reimplemented in a sane way. I threw my
     previous close-to-protocol implementation and switched focus to
@@ -94,6 +95,22 @@
     not real programmers job?
 
 * Embedded C++: Arduino(ATMega328P) and Esplora(ESP8266)
+
+  Again three types of repos: codebase, completed, uncompleted.
+
+  Codebase is infested with early sketches.
+
+  * [Sketchbook](https://github.com/martin-eden/arduino_sketchbook)
+    (2017-07 .. )
+
+    Personal codebase for embedded C++ projects.
+
+    My sketches/libraries for Arduino since start of my journey.
+
+    I wish I can make it cleaner, but.. But like with my Lua [workshop]
+    progress having higher priority than maintenance.
+
+    Worthy part there in /libraries/me_...
 
   * Libraries
 
@@ -126,26 +143,14 @@
     Arduino, Esplora, gyroscope (IMU6050).
 
     You can send commands to rover via Internet! (Well, at least in
-    you local network). You will receive gyroscope readings as a
-    feedback! You can teach this thingie to do tricks!
+    your local network). You will receive gyroscope readings as a
+    feedback! You can teach this thingy to do tricks!
 
-    Actually, it's good recent project but currently I'm disctracted to
-    designing WiFi interface classet in C++. Was not proper announced
-    yet.
+    Actually, it's good unannounced project. I was having fun
+    designing [WifiShip] library, then [Ws2812b] implementation,
+    then [SerialTokenizer]... Can't say when I will return to this.
 
-  * [Sketchbook](https://github.com/martin-eden/arduino_sketchbook)
-    (2017-07 .. )
-
-    Personal codebase for embedded C++ projects.
-
-    Mess of my C sketches/libraries for Arduino. Someday I'll clean this up!
-    (Or at least will make it cleaner.)
-
-    That's a lot worse than my Lua "workshop". All code since the dawn
-    of 2015s when I started relations with Arduino and was forced to write in
-    C/C++. (Was writing in Pascal/Delphi before.)
-
-    But recent libraries there are not bad at experimental design.
+    Anyway, not a bad place to read comments.
 
 * Games
 
@@ -185,19 +190,14 @@
 
     I've tried to describe protocol from my conspects and Lua implementations.
 
-  * Minor
-    * Reference docs
-      * [Zip format](https://github.com/martin-eden/zipfiles_format_doc) - official text docs with my .pdf equivalents
-      * [DS3231](https://github.com/martin-eden/doc.ds3231) - datasheet for real time clock chip DS3231
-
 * Links to other resources I value
 
   * Tools
     * [Lua](https://github.com/lua/lua) - thanks Roberto for elegant language!
       * [LuaGLM](https://github.com/gottfriedleibniz/lua) - math-tuned fork of Lua
-    * [FreePascal](https://github.com/fpc/FPCSource)
+    * [FreePascal](https://github.com/fpc/FPCSource) - it's a pity Anders was bought by Microsoft
     * [GNU compilers collection](https://github.com/gcc-mirror/gcc) - thank you Richard for making open-source practical!
-    * [linux](https://github.com/torvalds/linux) - thanks Linus for OS core
+    * [linux](https://github.com/torvalds/linux) - thanks Linus for OS core!
     * [git](https://github.com/git/git) - thanks Linus for implementation of versioned filesystem
 
   * Lua
@@ -209,7 +209,7 @@
       * [table serializer](https://github.com/gvx/Ser) `Ser` by `gvx`
       * [lua parser](https://github.com/andremm/lua-parser) by `Andre Murbach`
     * Transpilers
-      * [Fengari](https://github.com/fengari-lua/fengari) by `daurnimator` -- run Lua in browser
+      * [Fengari](https://github.com/fengari-lua/fengari) by `daurnimator` -- run Lua in browser!
       * [LuaJIT](https://github.com/LuaJIT/LuaJIT) by `Mike Pall` -- performance-oriented Lua v5.2
     * Language resources, FAQs, link collections
       * [Lua FAQ](https://github.com/stevedonovan/luafaq) by `Steve Donovan`
