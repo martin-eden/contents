@@ -60,11 +60,11 @@
     (2019-12 .. 2020-01)
 
     Graphical interface to hardware real-time clock module DS3231.
-    (Hardware host part is Firmata-compatible board.)
+    (Firmware is Firmata.)
 
     I2C channel from Firmata (in Arduino) -- USB connection -- data
-    parser/compiler in Lua -- representation of structured data in
-    TekUI. Then data goes back. Was pleasant experience.
+    parser/compiler in Lua -- representation in TekUI.
+    Then data goes back. Was pleasant experience.
 
   * [Lightday](https://github.com/martin-eden/lightday)
     (2020-03)
@@ -82,30 +82,30 @@
     Sort of "ambassador" to do useful things via dreadful Firmata protocol.
 
     Protocol parser/compiler. Reimplemented in a sane way. I threw my
-    previous close-to-protocol implementation and switched focus to
-    easy-to-understand interface.
+    previous close-to-protocol implementation (used in [DS3231 GUI])
+    and switched focus to easy-to-understand interface.
 
   * [ArduinoLibGenerator](https://github.com/martin-eden/ArduinoLibGenerator)
     (2024-02 .. 2024-03)
 
-    Tool to generate library description file for ArduinoIDE. Source
-    data for library description is structured Lua table.
+    Generate library description file for ArduinoIDE. Source data for
+    library description is Lua table.
 
     Yo dawg i herd you dont like writing one-dimensional .ini files,
     not real programmers job?
 
+    Toy project to hone source files placement skill.
+
 * Embedded C++: Arduino(ATMega328P) and Esplora(ESP8266)
 
   Again three types of repos: codebase, completed, uncompleted.
-
-  Codebase is infested with early sketches.
 
   * [Sketchbook](https://github.com/martin-eden/arduino_sketchbook)
     (2017-07 .. )
 
     Personal codebase for embedded C++ projects.
 
-    My sketches/libraries for Arduino since start of my journey.
+    Codebase is infested with early sketches.
 
     I wish I can make it cleaner, but.. But like with my Lua [workshop]
     progress having higher priority than maintenance.
@@ -122,12 +122,12 @@
     * [me_WifiShip](https://github.com/martin-eden/EmbeddedCpp_me_WifiShip)
       (2024-02)
 
-      Esplora. Get/set MAC, scan, connect to router, get IP.
+      Get/set MAC, scan, connect to router, get IP. Esplora.
 
     * [me_Ws2812b](https://github.com/martin-eden/EmbeddedCpp-me_Ws2812b)
       (2024-03 .. 2024-05)
 
-      AVR assembler. Write array at 800 kBits. Control RGB LED stripe.
+      Control RGB LED stripe. Write array at 800 kBits. AVR assembler.
 
       * [me_Ws2812b docs](https://github.com/martin-eden/EmbeddedCpp-me_Ws2812b-Docs)
         (2024-05)
@@ -152,27 +152,6 @@
 
     Anyway, not a bad place to read comments.
 
-* Games
-
-  World of Warcraft and Hearthstone-related side scripts.
-
-  Currently I do not play these games (and Blizzard banned my several
-  accounts). But the effort was spend so they are public archives.
-
-  Stack is Lua, Bash (and parallel).
-
-  * [Hearthstone cards renamer](https://github.com/martin-eden/hearthstone_cards_renamer)
-    (2018-05)
-
-    * [Hearthstone cards images](https://github.com/martin-eden/hearthstone_cards_named)
-      (2018-04)
-
-  * [Warcraft. Retrieve auction data for pets](https://github.com/martin-eden/pet_aux)
-    (2016-06)
-
-  * [Warcraft. Get general data about pets](https://github.com/martin-eden/pet_species_to_csv)
-    (2016-06)
-
 * Texts
 
   * [Tagging style](https://github.com/martin-eden/tagging_guideline)
@@ -180,15 +159,16 @@
 
     System of marking commit messages.
 
-    Was written by me somewhere in 2016. But still interesting text to
-    read if you wonder about syntax in my git commit messages.
+    Was written in a couple of hours somewhere in 2016. Still
+    interesting text to read if you wonder about syntax in my git
+    commit messages.
 
   * [Firmata protocol](https://github.com/martin-eden/firmata_protocol/blob/main/protocol.md)
     (2021-08, 2023-05)
 
     Firmata protocol description. (Firmata protocol is related to Arduino world.)
 
-    I've tried to describe protocol from my conspects and Lua implementations.
+    I've tried to describe protocol from my notes and Lua implementations.
 
 * Links to other resources I value
 
