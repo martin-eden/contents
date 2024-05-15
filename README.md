@@ -98,59 +98,19 @@
 
 * Embedded C++: Arduino(ATMega328P) and Esplora(ESP8266)
 
-  Again three types of repos: codebase, completed, uncompleted.
+  Organizing data in convenient way is the hardest challenge I've
+  encountered.
 
-  * [Sketchbook](https://github.com/martin-eden/arduino_sketchbook)
-    (2017-07 .. )
-
-    Personal codebase for embedded C++ projects.
-
-    Codebase is infested with early sketches.
-
-    I wish I can make it cleaner, but.. But like with my Lua [workshop]
-    progress having higher priority than maintenance.
-
-    Worthy part there in /libraries/me_...
-
-  * Libraries
-
-    * [me_Types](https://github.com/martin-eden/EmbeddedCpp_me_Types)
-      (2024-02)
-
-      Base types for other code.
-
+  * [Crafts](https://github.com/martin-eden/Embedded_Crafts/)
+  * Featured crafts
     * [me_WifiShip](https://github.com/martin-eden/EmbeddedCpp_me_WifiShip)
-      (2024-02)
-
-      Get/set MAC, scan, connect to router, get IP. Esplora.
-
+      (2023-12 .. 2024-02) for API design and file structure
     * [me_Ws2812b](https://github.com/martin-eden/EmbeddedCpp-me_Ws2812b)
-      (2024-03 .. 2024-05)
-
-      Control RGB LED stripe. Write array at 800 kBits. AVR assembler.
-
-      * [me_Ws2812b docs](https://github.com/martin-eden/EmbeddedCpp-me_Ws2812b-Docs)
-        (2024-05)
-
-        Additional docs for WS2812B LED stripe library.
-
-  * [Willy](https://github.com/martin-eden/willy)
-    (2023-12 .. )
-
-    Two wheeled rover.
-
-    Two decks, standoffs, battery, two DC motors, wheels, motor board,
-    Arduino, Esplora, gyroscope (IMU6050).
-
-    You can send commands to rover via Internet! (Well, at least in
-    your local network). You will receive gyroscope readings as a
-    feedback! You can teach this thingy to do tricks!
-
-    Actually, it's good unannounced project. I was having fun
-    designing [WifiShip] library, then [Ws2812b] implementation,
-    then [SerialTokenizer]... Can't say when I will return to this.
-
-    Anyway, not a bad place to read comments.
+      (2024-03 .. 2024-05) for writing in assembler and trying to stay readable
+    * [Willy](https://github.com/martin-eden/willy)
+      (2023-11 .. 2024-02 ..) for creating G-codes-like abstraction.
+      Also for implementing stack between HTTP endpoint and writing PWM.
+      Also for hardware platform design.
 
 * Texts
 
@@ -175,7 +135,7 @@
   * Tools
     * [Lua](https://github.com/lua/lua) - thanks Roberto for elegant language!
       * [LuaGLM](https://github.com/gottfriedleibniz/lua) - math-tuned fork of Lua
-    * [FreePascal](https://github.com/fpc/FPCSource) - it's a pity Anders was bought by Microsoft
+    * [FreePascal](https://github.com/fpc/FPCSource) - what a pity Anders was bought by Microsoft
     * [GNU compilers collection](https://github.com/gcc-mirror/gcc) - thank you Richard for making open-source practical!
     * [linux](https://github.com/torvalds/linux) - thanks Linus for OS core!
     * [git](https://github.com/git/git) - thanks Linus for implementation of versioned filesystem
