@@ -1,3 +1,19 @@
+* Embedded C++: Arduino(ATMega328P) and Esplora(ESP8266)
+
+  Organizing data in convenient way is the hardest challenge I've
+  encountered.
+
+  * [Crafts](https://github.com/martin-eden/Embedded_Crafts/)
+  * Featured crafts
+    * [me_WifiShip](https://github.com/martin-eden/EmbeddedCpp_me_WifiShip)
+      (2023-12 .. 2024-02) for API design and file structure
+    * [me_Ws2812b](https://github.com/martin-eden/EmbeddedCpp-me_Ws2812b)
+      (2024-03 .. 2024-05) for writing in assembler and trying to stay readable
+    * [Willy](https://github.com/martin-eden/willy)
+      (2023-11 .. 2024-02 ..) for creating G-codes-like abstraction.
+      Also for implementing stack between HTTP endpoint and writing PWM.
+      Also for hardware platform design.
+
 * Lua
 
   There are three types of my Lua code assemblies.
@@ -95,22 +111,6 @@
     not real programmers job?
 
     Toy project to hone source files placement skill.
-
-* Embedded C++: Arduino(ATMega328P) and Esplora(ESP8266)
-
-  Organizing data in convenient way is the hardest challenge I've
-  encountered.
-
-  * [Crafts](https://github.com/martin-eden/Embedded_Crafts/)
-  * Featured crafts
-    * [me_WifiShip](https://github.com/martin-eden/EmbeddedCpp_me_WifiShip)
-      (2023-12 .. 2024-02) for API design and file structure
-    * [me_Ws2812b](https://github.com/martin-eden/EmbeddedCpp-me_Ws2812b)
-      (2024-03 .. 2024-05) for writing in assembler and trying to stay readable
-    * [Willy](https://github.com/martin-eden/willy)
-      (2023-11 .. 2024-02 ..) for creating G-codes-like abstraction.
-      Also for implementing stack between HTTP endpoint and writing PWM.
-      Also for hardware platform design.
 
 * Texts
 
