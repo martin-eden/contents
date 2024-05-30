@@ -10,8 +10,9 @@ Something new. Interesting projects and interesting people.
 I don't think it's possible to constructively define what is "interesting".
 But lets start with this:
 
-  * Data structures processing
+  * API/systems design
   * Real-world projects
+  * Data structures processing
 
 ## What I do not want
 
@@ -92,8 +93,6 @@ Time flies!
 
 * PL/SQL (Oracle DB)
 
-  Nothing interesting.
-
   * Function to collect billing, convert to pdf and email
 
 * Lua (5.1 .. 5.3)
@@ -116,8 +115,7 @@ Time flies!
     * Thermo-hygrometer gadget
     * Ultrasonic ruler gadget
 
-* C#
-
-  Nothing notable really. Dreaded CI pipeline in organization.
+* C# (9)
 
   * Check function signature and report if bad. Reflection.
+  * Code reviews
