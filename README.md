@@ -1,3 +1,5 @@
+## Parts of my extended phenotype
+
 * Embedded C++: Arduino(ATMega328P) and Esplora(ESP8266)
 
   Organizing data in convenient way is the hardest challenge I've
@@ -10,11 +12,11 @@
     * [me_Ws2812b](https://github.com/martin-eden/Embedded-me_Ws2812b)
       (2024-03 .. 2024-05) for writing in assembler and trying to stay readable
     * [Willy](https://github.com/martin-eden/willy)
-      (2023-11 .. 2024-02 ..) for creating G-codes-like abstraction.
-      Also for implementing stack from HTTP endpoint to writing PWM.
-      And for hardware design.
+      (2023-11 .. 2024-02 ..) for creating G-codes-like abstraction for
+      motor board. For implementing stack from HTTP endpoint to writing
+      PWM. And for hardware design.
 
-* Lua
+* Lua: Stock Lua 5.3
 
   There are three types of my Lua code assemblies.
 
@@ -88,9 +90,9 @@
     TekUI to calculate length of lightday. (Depending of latitude
     and day number.)
 
-    Was going to use calculations to emulate sun for my tomatoes growbox
-    but plain 16/8 worked better. And you will have troubles moving lamp
-    in circle in growbox anyway.
+    I was going to use calculations to emulate sun for my tomatoes
+    growbox but plain 16/8 worked better. And you will have troubles
+    moving lamp in circle in growbox anyway.
 
   * [Firmata ambassador](https://github.com/martin-eden/FirmataAmbassador)
     (2023-06)
@@ -130,7 +132,7 @@
 
     I've tried to describe protocol from my notes and Lua implementations.
 
-* Links to other resources I value
+## Links to other resources I value
 
   * Tools
     * [Lua](https://github.com/lua/lua) - thanks Roberto for elegant language!
