@@ -114,6 +114,15 @@
 
     Toy project to hone source files placement skill.
 
+  * [Itness](https://github.com/martin-eden/Lua-Itness)
+    (2024-07 .. 2024-09)
+
+    Strings tree coder/decoder to Lua tables.
+
+    Because I want sane readable format. Not JSON, YAML or XML.
+
+    Looks like Lisp code? That's a convergent evolution!
+
 * Texts
 
   * [Tagging style](https://github.com/martin-eden/tagging_guideline)
