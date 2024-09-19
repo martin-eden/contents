@@ -123,6 +123,11 @@
 
     Looks like Lisp code? That's a convergent evolution!
 
+  * [RgbStripeConsole](https://github.com/martin-eden/Lua-RgbStripeConsole)
+    (2024-09)
+
+    Commands generator and file sender for firmware on Arduino with RGB stripe.
+
 * Texts
 
   * [Tagging style](https://github.com/martin-eden/tagging_guideline)
