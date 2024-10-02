@@ -55,8 +55,7 @@
       Serialize Lua table to source code that recreates this table.
 
       Tables in Lua can contain cycles, so you can't serialize them to
-      data format like JSON. Dealing with cycles was challenging
-      challenge.
+      data format like JSON. Dealing with cycles was interesting.
 
     * [Autoldoc](https://github.com/martin-eden/autoldoc)
       (2017-08)
@@ -74,13 +73,13 @@
 
       Was playing with TekUI(Lua/C) library.
 
-  * [DS3231 GUI](https://github.com/martin-eden/tekui_ds3231)
+  * [DS3231 GUI][DS3231 GUI]
     (2019-12 .. 2020-01)
 
     Graphical interface to hardware real-time clock module DS3231.
     (Firmware is Firmata.)
 
-    I2C channel from Firmata (in Arduino) -- USB connection -- data
+    I2C channel from Firmata (on Arduino) -- USB connection -- data
     parser/compiler in Lua -- representation in TekUI.
     Then data goes back. Was pleasant experience.
 
@@ -100,7 +99,7 @@
     Sort of "ambassador" to do useful things via dreadful Firmata protocol.
 
     Protocol parser/compiler. Reimplemented in a sane way. I threw my
-    previous close-to-protocol implementation (used in [DS3231 GUI])
+    previous close-to-protocol implementation (used in [DS3231 GUI][DS3231 GUI])
     and switched focus to easy-to-understand interface.
 
   * [ArduinoLibGenerator](https://github.com/martin-eden/ArduinoLibGenerator)
@@ -177,3 +176,5 @@
     * [data serizalizer](https://github.com/sandstorm-io/capnproto) `canproto` by `Kenton Varda`
     * [cryptoroutines in C](https://github.com/philanc/luanacha) `luanacha` by `philanc`
     * [hashes in C](https://github.com/rhash/RHash/tree/master/librhash) by `Alexey Kravchenko`
+
+[DS3231 GUI]: https://github.com/martin-eden/tekui_ds3231
