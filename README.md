@@ -18,18 +18,15 @@
 
 * Lua: Stock Lua 5.3
 
-  There are three types of my Lua code assemblies.
+  Here are two types of my Lua code assemblies.
 
   First is "workshop", it is my personal Lua framework. Mix of different
   design decisions in my Lua journey. Contains essential pieces for all
-  projects I've done.
+  projects I've done (including abandoned projects).
 
   Second is "released projects". They are self-contained solutions
   having in repository all the code they need and no dead code. Frozen
-  in their time. They have "workshop" directory.
-
-  Third is "unreleased projects". They are expected to use "workshop"
-  of their time. Development may happen there or may not.
+  in their time. They have their own "workshop" directory.
 
   * [Workshop](https://github.com/martin-eden/workshop)
     (2016-09 .. )
@@ -52,7 +49,7 @@
     * [Lua table serializer](https://github.com/martin-eden/lua_table_serializer)
       (2017-05)
 
-      Serialize Lua table to source code that recreates this table.
+      Serialize Lua table to source code that recreates that table.
 
       Tables in Lua can contain cycles, so you can't serialize them to
       data format like JSON. Dealing with cycles was interesting.
@@ -89,7 +86,7 @@
     TekUI to calculate length of lightday. (Depending of latitude
     and day number.)
 
-    I was going to use calculations to emulate sun for my tomatoes
+    I was going to use calculations to emulate Sun for my tomatoes
     growbox but plain 16/8 worked better. And you will have troubles
     moving lamp in circle in growbox anyway.
 
