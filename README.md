@@ -124,6 +124,11 @@
 
     Commands generator and file sender for firmware on Arduino with RGB stripe.
 
+  * [Plain pixmap load/save][PlainPixmap]
+    (2024-11)
+
+    "Plain .ppm" format codec.
+
 * Texts
 
   * [Tagging style](https://github.com/martin-eden/tagging_guideline)
@@ -175,3 +180,4 @@
     * [hashes in C](https://github.com/rhash/RHash/tree/master/librhash) by `Alexey Kravchenko`
 
 [DS3231 GUI]: https://github.com/martin-eden/tekui_ds3231
+[PlainPixmap]: https://github.com/martin-eden/Lua-Ppm
