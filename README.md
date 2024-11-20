@@ -129,6 +129,11 @@
 
     "Plain .ppm" format codec.
 
+  * [Lua code melder (lcm)](https://github.com/martin-eden/lua_code_melder)
+    (2024-11)
+
+    Aggregates `*.lua` files into one. Loading modules will still work.
+
 * Texts
 
   * [Tagging style](https://github.com/martin-eden/tagging_guideline)
