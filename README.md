@@ -134,6 +134,11 @@
 
     Aggregates `*.lua` files into one. Loading modules will still work.
 
+  * [Linear "plasm" gradient generator][1dPlasm]
+    (2024-11)
+
+    Generates image file with sometimes pleasantly semi-random gradient transitions.
+
 * Texts
 
   * [Tagging style](https://github.com/martin-eden/tagging_guideline)
@@ -186,3 +191,4 @@
 
 [DS3231 GUI]: https://github.com/martin-eden/tekui_ds3231
 [PlainPixmap]: https://github.com/martin-eden/Lua-Ppm
+[1dPlasm]: https://github.com/martin-eden/Lua-LinearPlasmGenerator
