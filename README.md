@@ -162,7 +162,7 @@
   * Tools
     * [Lua](https://github.com/lua/lua) - thanks Roberto for elegant language!
     * [FreePascal](https://github.com/fpc/FPCSource) - what a pity Anders was bought by Microsoft
-    * [GNU compilers collection](https://github.com/gcc-mirror/gcc) - thank you Richard for making open-source practical!
+    * [GNU compilers collection](https://github.com/gcc-mirror/gcc) - thanks Richard for making open-source practical!
     * [linux](https://github.com/torvalds/linux) - thanks Linus for OS core!
     * [git](https://github.com/git/git) - thanks Linus for implementation of versioned filesystem
 
