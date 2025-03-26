@@ -161,7 +161,6 @@
 
   * Tools
     * [Lua](https://github.com/lua/lua) - thanks Roberto for elegant language!
-      * [LuaGLM](https://github.com/gottfriedleibniz/lua) - math-tuned fork of Lua
     * [FreePascal](https://github.com/fpc/FPCSource) - what a pity Anders was bought by Microsoft
     * [GNU compilers collection](https://github.com/gcc-mirror/gcc) - thank you Richard for making open-source practical!
     * [linux](https://github.com/torvalds/linux) - thanks Linus for OS core!
