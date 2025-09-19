@@ -188,6 +188,16 @@
     * [cryptoroutines in C](https://github.com/philanc/luanacha) `luanacha` by `philanc`
     * [hashes in C](https://github.com/rhash/RHash/tree/master/librhash) by `Alexey Kravchenko`
 
+  * Game sources
+    * [RedAlert](https://github.com/electronicarts/CnC_Remastered_Collection/blob/master/REDALERT/)
+      RedAlert game source, kudos to `Joe L. Bolstic`
+    * [Jagged Alliance 2](https://github.com/dariusk/ja2/tree/master/ja2/Build/TacticalAI)
+      JA2 source
+    * [Descent FreeSpace](https://github.com/osgcc/descent2)
+    * [Quake](https://github.com/id-Software/Quake)
+    * [Doom](https://github.com/id-Software/DOOM)
+    * [Hack](https://cvsweb.netbsd.org/bsdweb.cgi/src/games/hack/)
+
 [DS3231 GUI]: https://github.com/martin-eden/tekui_ds3231
 [PlainPixmap]: https://github.com/martin-eden/Lua-Ppm
 [1dPlasm]: https://github.com/martin-eden/Lua-LinearPlasmGenerator
