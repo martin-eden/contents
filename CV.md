@@ -56,6 +56,7 @@ At least this:
 2022                              X   X  X
 2023                              X   X  X
 2024                              X   X
+2025                              X   X
 ```
 
 Time flies!
