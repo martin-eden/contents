@@ -139,6 +139,11 @@
 
     Generates image file with sometimes pleasantly semi-random gradient transitions.
 
+  * [Represent any file as image][BinToImg]
+    (2026-01)
+
+    Just one-evening project but code has nice size/pleasure ratio.
+
 * Texts
 
   * [Tagging style](https://github.com/martin-eden/tagging_guideline)
@@ -201,3 +206,4 @@
 [DS3231 GUI]: https://github.com/martin-eden/tekui_ds3231
 [PlainPixmap]: https://github.com/martin-eden/Lua-Ppm
 [1dPlasm]: https://github.com/martin-eden/Lua-LinearPlasmGenerator
+[BinToImg]: https://github.com/martin-eden/Lua-BinToImg
