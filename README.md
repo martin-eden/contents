@@ -144,6 +144,10 @@
 
     Just one-evening project but code has nice size/pleasure ratio.
 
+  * [I2C_Console][I2C_Console_Client] (2026-04)
+
+    Module and command-line tools to access I²C devices.
+
 * Texts
 
   * [Tagging style](https://github.com/martin-eden/tagging_guideline)
@@ -207,3 +211,4 @@
 [PlainPixmap]: https://github.com/martin-eden/Lua-Ppm
 [1dPlasm]: https://github.com/martin-eden/Lua-LinearPlasmGenerator
 [BinToImg]: https://github.com/martin-eden/Lua-BinToImg
+[I2C_Console_Client]: https://github.com/martin-eden/Lua-I2C_Console
