@@ -178,11 +178,11 @@
   * Lua
     * Tools, libraries
       * [lhf's tools](http://webserver2.tecgraf.puc-rio.br/~lhf/ftp/lua/) from language coauthor, `Luiz Henrique de Figueiredo`
-      * [compiled Windows binaries](https://github.com/WinLua/bin) `WinLua` by `Russel Halley`
+      * [compiled Windows binaries](https://github.com/joedf/LuaBuilds) `LuaBuilds` by `Joe DF`
       * [cryptoroutines](https://github.com/philanc/plc) `plc` by `philanc`
       * [graph planar representation](https://github.com/rm-code/Graphoon) `Graphoon` by `Robert Machmer`
       * [table serializer](https://github.com/gvx/Ser) `Ser` by `gvx`
-      * [lua parser](https://github.com/andremm/lua-parser) by `Andre Murbach`
+      * [Lua parser](https://github.com/andremm/lua-parser) by `Andre Murbach`
     * Transpilers
       * [Fengari](https://github.com/fengari-lua/fengari) by `daurnimator` -- run Lua in browser!
       * [LuaJIT](https://github.com/LuaJIT/LuaJIT) by `Mike Pall` -- performance-oriented Lua v5.2
