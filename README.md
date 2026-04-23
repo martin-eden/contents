@@ -130,9 +130,9 @@
     "Plain .ppm" format codec.
 
   * [Lua code melder (lcm)](https://github.com/martin-eden/lua_code_melder)
-    (2024-11)
+    (2024-11, 2026-04)
 
-    Aggregates `*.lua` files into one. Loading modules will still work.
+    Aggregates `*.lua` files in directory tree into one.
 
   * [Linear "plasm" gradient generator][1dPlasm]
     (2024-11)
