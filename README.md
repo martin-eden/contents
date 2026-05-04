@@ -5,7 +5,8 @@
   Organizing data in convenient way is the hardest challenge I've
   encountered.
 
-  * [Crafts](https://github.com/martin-eden/Embedded_Crafts/)
+  * [Personal framework](https://github.com/martin-eden/Embedded_Crafts/tree/master/Parts)
+  * [Crafts](https://github.com/martin-eden/Embedded_Crafts/tree/master/Ships)
   * Featured crafts
     * [me_WifiShip](https://github.com/martin-eden/Embedded-me_WifiShip)
       (2023-12 .. 2024-02) for API design and file structure
