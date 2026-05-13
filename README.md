@@ -72,7 +72,7 @@
       Was playing with TekUI(Lua/C) library.
 
   * [DS3231 GUI][DS3231 GUI]
-    (2019-12 .. 2020-01)
+    (2019-12 .. 2020-01, 2026)
 
     Graphical interface to hardware real-time clock module DS3231.
     (Firmware is Firmata.)
