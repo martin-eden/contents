@@ -23,7 +23,8 @@ Organizing data in a convenient way is the hardest challenge I've encountered.
   from different times and constantly evolving.
 
   Second is "released projects". These are self-contained solutions
-  without unused code. Typically has part of "workshop" at release time.
+  without unused code. Typically they contain part of "workshop" at
+  release time.
 
   * [Workshop](https://github.com/martin-eden/workshop)
     (2015 .. )
