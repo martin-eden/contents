@@ -215,7 +215,7 @@ Organizing data in a convenient way is the hardest challenge I've encountered.
 
 [nice_capnproto]: https://github.com/sandstorm-io/capnproto
 [nice_luanacha]:  https://github.com/philanc/luanacha
-[nice_c_hashes]:  https://github.com/rhash/RHash/tree/master/librhash
+[nice_c_hashes]:  https://github.com/rhash/RHash
 
 [games_ja2]:      https://github.com/dariusk/ja2/tree/master/ja2/Build/TacticalAI
 [games_redalert]: https://github.com/electronicarts/CnC_Remastered_Collection/blob/master/REDALERT/
