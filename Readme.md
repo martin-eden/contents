@@ -218,7 +218,7 @@ Organizing data in a convenient way is the hardest challenge I've encountered.
 [nice_c_hashes]:  https://github.com/rhash/RHash
 
 [games_ja2]:      https://github.com/dariusk/ja2
-[games_redalert]: https://github.com/electronicarts/CnC_Remastered_Collection/blob/master/REDALERT/
+[games_redalert]: https://github.com/electronicarts/CnC_Remastered_Collection/
 [games_descent2]: https://github.com/osgcc/descent2
 [games_quake]:    https://github.com/id-Software/Quake
 [games_doomo]:    https://github.com/id-Software/DOOM
