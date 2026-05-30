@@ -152,9 +152,9 @@ Organizing data in a convenient way is the hardest challenge I've encountered.
       * [code style guide][luaintro_style_olivine] by `Olivine Labs` group
 
   * Other good people repositories
-    * [data serizalizer][nice_capnproto] `canproto` by `Kenton Varda`
-    * [cryptoroutines in C][nice_luanacha] `luanacha` by `philanc`
-    * [hashes in C][nice_c_hashes] by `Alexey Kravchenko`
+    * [capnproto][nice_capnproto] data serializer by `Kenton Varda`
+    * [luanacha][nice_luanacha] cryptoroutines in C by `philanc`
+    * [rhash][nice_rhash] hashes in C by `Alexey Kravchenko`
 
   * Game sources
     * [Jagged Alliance 2][games_ja2]
@@ -215,7 +215,7 @@ Organizing data in a convenient way is the hardest challenge I've encountered.
 
 [nice_capnproto]: https://github.com/sandstorm-io/capnproto
 [nice_luanacha]:  https://github.com/philanc/luanacha
-[nice_c_hashes]:  https://github.com/rhash/RHash
+[nice_rhash]:  https://github.com/rhash/RHash
 
 [games_ja2]:      https://github.com/dariusk/ja2
 [games_redalert]: https://github.com/electronicarts/CnC_Remastered_Collection/
