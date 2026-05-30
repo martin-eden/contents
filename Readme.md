@@ -15,7 +15,7 @@ Organizing data in a convenient way is the hardest challenge I've encountered.
       (2023, 2024) for creating G-codes-like abstraction for
       motor control, for implementing stack from HTTP to PWM.
 
-* Lua: Stock Lua 5.3
+* Lua: Lua 5.3
 
   Here are two types of my Lua code assemblies.
 
@@ -26,92 +26,25 @@ Organizing data in a convenient way is the hardest challenge I've encountered.
   without unused code. Typically they contain part of "workshop" at
   release time.
 
-  * [Workshop][workshop]
-    (2015 .. )
-
-    Personal codebase for Lua projects.
-
-  * [DS3231 GUI][DS3231 GUI]
-    (2019, 2026)
-
-    GUI to hardware real-time clock module DS3231 via Firmata.
-
-  * [Lua code melder (lcm)][lcm]
-    (2024, 2026)
-
-    Aggregates `*.lua` files in directory tree into one.
-
-  * [Itness][Itness]
-    (2024, 2026)
-
-    Strings tree codec.
-
-  * [RangesTree][RangesTree]
-    (2026)
-
-    Module for data ranges in a tree structure.
-
-  * [BinToImg][BinToImg]
-    (2026)
-
-    Converts any file to image.
-
-  * [I2C_Console][I2C_Console_Client]
-    (2026)
-
-    Communication with custom firmware providing I²C interface.
-
-  * [Linear "plasm" gradient generator][1dPlasm]
-    (2024)
-
-    Generates image file with random distance-dependent gradient transitions.
-
-  * [RgbStripeConsole][RgbStripeConsole]
-    (2024)
-
-    Communication with firmware providing RGB stripe access.
-
-  * [Plain pixmap load/save][PlainPixmap]
-    (2024)
-
-    Plaintext images format codec (`.pbm`, `.pgm`, `.pbm`, `.ppm`).
-
-  * [ArduinoLibGenerator][ArduinoLibGenerator]
-    (2024)
-
-    Codec for `.properties` library description files in ArduinoIDE.
-
-  * [Firmata ambassador][FirmataAmbassador]
-    (2023)
-
-    Simplified interface to Firmata communication protocol.
-
-  * [Lightday][lightday]
-    (2020)
-
-    GUI to calculate length of lightday (depending of latitude and day number).
-
-  * [Lua code formatter (lcf)][lcf]
-    (2016, 2017)
-
-    Full Lua 5.3 syntax parser, formatter and compiler.
-
-    Satellite projects
-
-    * [Command-line generator for lcf][lcf_params_gui]
-      (2018)
-
-      GUI to generate Bash command line for Lua code formatter.
-
-    * [Autoldoc][autoldoc]
-      (2017)
-
-      Places LDoc comments in Lua source file.
-
-    * [Lua table serializer][lua_table_serializer]
-      (2017)
-
-      Serializes Lua table to source code that recreates that table.
+  | Updated | Born | Name                                             | Description                                                                 | Tags                                           |
+  |:--------|:----:|:------------------------------------------------:|:----------------------------------------------------------------------------|:----------------------------------------------:|
+  | 2026    | 2015 | [Workshop][workshop]                             | Personal codebase for Lua projects.                                         | `framework`                                    |
+  | 2026    | 2019 | [DS3231 GUI][DS3231 GUI]                         | GUI to hardware real-time clock module DS3231 via Firmata.                  | `gui` `communication` `firmata` `I²C` `ds3231` |
+  | 2026    | 2024 | [Lua code melder (lcm)][lcm]                     | Aggregates `*.lua` files in directory tree into one.                        | `source-tool`                                  |
+  | 2026    | 2024 | [Itness][Itness]                                 | Strings tree codec.                                                         | `custom-data-format`                           |
+  | 2026    | 2026 | [RangesTree][RangesTree]                         | Module for data ranges in a tree structure.                                 | `data-structure`                               |
+  | 2026    | 2026 | [BinToImg][BinToImg]                             | Converts any file to image.                                                 | `exploration-tool`                             |
+  | 2026    | 2026 | [I2C_Console][I2C_Console_Client]                | Communication with custom firmware providing I²C interface.                 | `communication` `custom-firmware` `I²C`        |
+  | 2024    | 2024 | [Linear "plasm" gradient generator][1dPlasm]     | Generates image file with random distance-dependent gradient transitions.   | `image` `exploration-tool`                     |
+  | 2024    | 2024 | [RgbStripeConsole][RgbStripeConsole]             | Communication with firmware providing RGB stripe access.                    | `communication` `custom-firmware`              |
+  | 2024    | 2024 | [Plain pixmap load/save][PlainPixmap]            | Plaintext images format codec (`.pbm`, `.pgm`, `.pbm`, `.ppm`).             | `data-format`                                  |
+  | 2024    | 2024 | [ArduinoLibGenerator][ArduinoLibGenerator]       | Codec for `.properties` library description files in ArduinoIDE.            | `data-format` `arduino`                        |
+  | 2023    | 2023 | [Firmata ambassador][FirmataAmbassador]          | Simplified interface to Firmata communication protocol.                     | `communication` `firmata`                      |
+  | 2020    | 2020 | [Lightday][lightday]                             | GUI to calculate length of lightday (depending of latitude and day number). | `gui` `exploration-tool`                       |
+  | 2017    | 2016 | [Lua code formatter (lcf)][lcf]                  | Full Lua 5.3 syntax parser, formatter and compiler.                         | `source-tool` `lua-parser` `lua-formatter`     |
+  | 2018    | 2018 | [Command-line generator for lcf][lcf_params_gui] | GUI to generate Bash command line for Lua code formatter.                   | `gui` `exploration-tool`                       |
+  | 2017    | 2017 | [Autoldoc][autoldoc]                             | Places LDoc comments in Lua source file.                                    | `source-tool`                                  |
+  | 2017    | 2017 | [Lua table serializer][lua_table_serializer]     | Serializes Lua table to Lua source code that recreates that table.          | `source-tool` `exploration-tool`               |
 
 * Texts
 
