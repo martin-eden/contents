@@ -209,7 +209,7 @@ Organizing data in a convenient way is the hardest challenge I've encountered.
 [luaimpl_luajit]: https://github.com/LuaJIT/LuaJIT
 
 [luaintro_steve]:         https://github.com/stevedonovan/luafaq
-[luaintro_dirk]:          https://rawgit.com/dlaurie/lua-notes/master/glossary.html
+[luaintro_dirk]:          https://html-preview.github.io/?url=https://github.com/dlaurie/lua-notes/raw/refs/heads/master/glossary.html
 [luaintro_links_lewis]:   https://github.com/LewisJEllis/awesome-lua
 [luaintro_style_olivine]: https://github.com/Olivine-Labs/lua-style-guide
 
