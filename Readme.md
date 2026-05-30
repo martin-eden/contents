@@ -157,9 +157,9 @@ Organizing data in a convenient way is the hardest challenge I've encountered.
     * [hashes in C][nice_c_hashes] by `Alexey Kravchenko`
 
   * Game sources
-    * [Jagged Alliance 2][games_ja2] JA2 source
+    * [Jagged Alliance 2][games_ja2]
     * [RedAlert][games_redalert] Kudos to `Joe L. Bolstic`
-    * [Descent FreeSpace][games_descent2]
+    * [Descent 2][games_descent2]
     * [Quake][games_quake]
     * [Doom][games_doom]
     * [Hack][games_hack]
@@ -221,5 +221,5 @@ Organizing data in a convenient way is the hardest challenge I've encountered.
 [games_redalert]: https://github.com/electronicarts/CnC_Remastered_Collection/
 [games_descent2]: https://github.com/osgcc/descent2
 [games_quake]:    https://github.com/id-Software/Quake
-[games_doomo]:    https://github.com/id-Software/DOOM
+[games_doom]:    https://github.com/id-Software/DOOM
 [games_hack]:     https://cvsweb.netbsd.org/bsdweb.cgi/src/games/hack/
