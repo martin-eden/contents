@@ -14,12 +14,6 @@ But lets start with this:
   * Real-world projects
   * Data structures processing
 
-## What I do not want
-
-At least this:
-
-  * Maintenance of existing projects
-
 ## What I did
 
 * University education ("Mathematician/System programmer")
