@@ -29,6 +29,7 @@ Organizing data in a convenient way is the hardest challenge I've encountered.
   | Updated | Born | Name                                             | Description                                                                 | Tags                                           |
   |:--------|:----:|:------------------------------------------------:|:----------------------------------------------------------------------------|:----------------------------------------------:|
   | 2026    | 2015 | [Workshop][workshop]                             | Personal codebase for Lua projects.                                         | `framework`                                    |
+  | 2026    | 2024 | [Plain pixmap load/save][PlainPixmap]            | Plaintext images format codec (`.pbm`, `.pgm`, `.pbm`, `.ppm`).             | `data-format`                                  |
   | 2026    | 2019 | [DS3231 GUI][DS3231 GUI]                         | GUI to hardware real-time clock module DS3231 via Firmata.                  | `gui` `communication` `firmata` `I²C` `ds3231` |
   | 2026    | 2024 | [Lua code melder (lcm)][lcm]                     | Aggregates `*.lua` files in directory tree into one.                        | `source-tool`                                  |
   | 2026    | 2024 | [Itness][Itness]                                 | Strings tree codec.                                                         | `custom-data-format`                           |
@@ -37,7 +38,6 @@ Organizing data in a convenient way is the hardest challenge I've encountered.
   | 2026    | 2026 | [I2C_Console][I2C_Console_Client]                | Communication with custom firmware providing I²C interface.                 | `communication` `custom-firmware` `I²C`        |
   | 2024    | 2024 | [Linear "plasm" gradient generator][1dPlasm]     | Generates image file with random distance-dependent gradient transitions.   | `image` `exploration-tool`                     |
   | 2024    | 2024 | [RgbStripeConsole][RgbStripeConsole]             | Communication with firmware providing RGB stripe access.                    | `communication` `custom-firmware`              |
-  | 2024    | 2024 | [Plain pixmap load/save][PlainPixmap]            | Plaintext images format codec (`.pbm`, `.pgm`, `.pbm`, `.ppm`).             | `data-format`                                  |
   | 2024    | 2024 | [ArduinoLibGenerator][ArduinoLibGenerator]       | Codec for `.properties` library description files in ArduinoIDE.            | `data-format` `arduino`                        |
   | 2023    | 2023 | [Firmata ambassador][FirmataAmbassador]          | Simplified interface to Firmata communication protocol.                     | `communication` `firmata`                      |
   | 2020    | 2020 | [Lightday][lightday]                             | GUI to calculate length of lightday (depending of latitude and day number). | `gui` `exploration-tool`                       |
