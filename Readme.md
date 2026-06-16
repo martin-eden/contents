@@ -29,9 +29,9 @@ Organizing data in a convenient way is the hardest challenge I've encountered.
   | Updated | Created | Name                                             | Description                                                                 | Tags                                           |
   |:--------|:-------:|:------------------------------------------------:|:----------------------------------------------------------------------------|:----------------------------------------------:|
   | 2026    |  2015   | [Workshop][workshop]                             | Personal codebase for Lua projects.                                         | `framework`                                    |
+  | 2026    |  2024   | [Lua code melder (lcm)][lcm]                     | Aggregates `*.lua` files in directory tree into one.                        | `source-tool`                                  |
   | 2026    |  2024   | [Netpbm codec][PlainPixmap]                      | Plaintext images format codec (`.pbm`, `.pgm`, `.pbm`, `.ppm`).             | `data-format`                                  |
   | 2026    |  2026   | [BinToImg][BinToImg]                             | Converts any file to image.                                                 | `exploration-tool`                             |
-  | 2026    |  2024   | [Lua code melder (lcm)][lcm]                     | Aggregates `*.lua` files in directory tree into one.                        | `source-tool`                                  |
   | 2026    |  2019   | [DS3231 GUI][DS3231 GUI]                         | GUI to hardware real-time clock module DS3231 via Firmata.                  | `gui` `communication` `firmata` `I²C` `ds3231` |
   | 2026    |  2024   | [Itness][Itness]                                 | Strings tree codec.                                                         | `custom-data-format`                           |
   | 2026    |  2026   | [RangesTree][RangesTree]                         | Module for data ranges in a tree structure.                                 | `data-structure`                               |
