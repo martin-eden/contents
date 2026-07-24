@@ -29,6 +29,7 @@ Organizing data in a convenient way is the hardest challenge I've encountered.
   | Created | Updated | Name                                               | Description                                                                 | Tags                                           |
   |:-------:|:--------|:--------------------------------------------------:|:----------------------------------------------------------------------------|:----------------------------------------------:|
   |  2015   | 2026    | [Workshop][workshop]                               | Personal codebase for Lua projects.                                         | `framework`                                    |
+  |  2026   | 2026    | [Lua code callgraph][LuaCallgraph]                 | Creates execution graphs from any Lua code.                                 | `source-tool` `exploration-tool`               |
   |  2017   | 2026    | [Lua table serializer (lts)][lua_table_serializer] | Serializes Lua table to Lua source code that recreates that table.          | `source-tool` `exploration-tool`               |
   |  2024   | 2026    | [Lua code melder (lcm)][lcm]                       | Aggregates `*.lua` files in directory tree into one.                        | `source-tool`                                  |
   |  2024   | 2026    | [Netpbm codec][PlainPixmap]                        | Plaintext images format codec (`.pbm`, `.pgm`, `.pbm`, `.ppm`).             | `data-format`                                  |
@@ -121,6 +122,7 @@ Organizing data in a convenient way is the hardest challenge I've encountered.
 [lcf_params_gui]:       https://github.com/martin-eden/lcf_params_gui
 [autoldoc]:             https://github.com/martin-eden/autoldoc
 [lua_table_serializer]: https://github.com/martin-eden/lua_table_serializer
+[LuaCallgraph]:         https://github.com/martin-eden/Lua-Callgraph
 
 [tagging_style]:    https://github.com/martin-eden/tagging_guideline
 [firmata_protocol]: https://github.com/martin-eden/firmata_protocol/blob/main/protocol.md
