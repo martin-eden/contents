@@ -29,11 +29,11 @@ Organizing data in a convenient way is the hardest challenge I've encountered.
   | Created | Updated | Name                                               | Description                                                                 | Tags                                           |
   |:-------:|:--------|:--------------------------------------------------:|:----------------------------------------------------------------------------|:----------------------------------------------:|
   |  2015   | 2026    | [Workshop][workshop]                               | Personal codebase for Lua projects.                                         | `framework`                                    |
+  |  2026   | 2026    | [BinToImg][BinToImg]                               | Converts any file to image.                                                 | `exploration-tool`                             |
   |  2026   | 2026    | [Lua code callgraph][LuaCallgraph]                 | Creates execution graphs from any Lua code.                                 | `source-tool` `exploration-tool`               |
   |  2017   | 2026    | [Lua table serializer (lts)][lua_table_serializer] | Serializes Lua table to Lua source code that recreates that table.          | `source-tool` `exploration-tool`               |
   |  2024   | 2026    | [Lua code melder (lcm)][lcm]                       | Aggregates `*.lua` files in directory tree into one.                        | `source-tool`                                  |
   |  2024   | 2026    | [Netpbm codec][PlainPixmap]                        | Plaintext images format codec (`.pbm`, `.pgm`, `.pbm`, `.ppm`).             | `data-format`                                  |
-  |  2026   | 2026    | [BinToImg][BinToImg]                               | Converts any file to image.                                                 | `exploration-tool`                             |
   |  2019   | 2026    | [DS3231 GUI][DS3231 GUI]                           | GUI to hardware real-time clock module DS3231 via Firmata.                  | `gui` `communication` `firmata` `I²C` `ds3231` |
   |  2024   | 2026    | [Itness][Itness]                                   | Strings tree codec.                                                         | `custom-data-format`                           |
   |  2026   | 2026    | [RangesTree][RangesTree]                           | Module for data ranges in a tree structure.                                 | `data-structure`                               |
