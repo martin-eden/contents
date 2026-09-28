@@ -26,26 +26,26 @@ Organizing data in a convenient way is the hardest challenge I've encountered.
   without unused code. Typically they contain part of "workshop" at
   release time.
 
-  | Created | Updated | Name                                               | Description                                                                 | Tags                                           |
-  |:-------:|:--------|:--------------------------------------------------:|:----------------------------------------------------------------------------|:----------------------------------------------:|
-  |  2015   | 2026    | [Workshop][workshop]                               | Personal codebase for Lua projects.                                         | `framework`                                    |
-  |  2016   | 2017    | [Lua code formatter (lcf)][lcf]                    | Full Lua 5.3 syntax parser, formatter and compiler.                         | `source-tool` `lua-parser` `lua-formatter`     |
-  |  2017   | 2017    | [Autoldoc][autoldoc]                               | Places LDoc comments in Lua source file.                                    | `source-tool`                                  |
-  |  2017   | 2026    | [Lua table serializer (lts)][lua_table_serializer] | Serializes Lua table to Lua source code that recreates that table.          | `source-tool` `exploration-tool`               |
-  |  2018   | 2018    | [Command-line generator for lcf][lcf_params_gui]   | GUI to generate Bash command line for Lua code formatter.                   | `gui` `exploration-tool`                       |
-  |  2019   | 2026    | [DS3231 GUI][DS3231 GUI]                           | GUI to hardware real-time clock module DS3231 via Firmata.                  | `gui` `communication` `firmata` `I²C` `ds3231` |
-  |  2020   | 2020    | [Lightday][lightday]                               | GUI to calculate length of lightday (depending of latitude and day number). | `gui` `exploration-tool`                       |
-  |  2023   | 2023    | [Firmata ambassador][FirmataAmbassador]            | Simplified interface to Firmata communication protocol.                     | `communication` `firmata`                      |
-  |  2024   | 2024    | [ArduinoLibGenerator][ArduinoLibGenerator]         | Codec for `.properties` library description file in ArduinoIDE.             | `data-format` `arduino`                        |
-  |  2024   | 2024    | [Linear "plasm" gradient generator][1dPlasm]       | Generates image file with random distance-dependent gradient transitions.   | `image` `exploration-tool`                     |
-  |  2024   | 2024    | [RgbStripeConsole][RgbStripeConsole]               | Communication with firmware providing RGB stripe access.                    | `communication` `custom-firmware`              |
-  |  2024   | 2026    | [Itness][Itness]                                   | Strings tree codec.                                                         | `custom-data-format`                           |
-  |  2024   | 2026    | [Lua code melder (lcm)][lcm]                       | Aggregates `*.lua` files in directory tree into one.                        | `source-tool`                                  |
-  |  2024   | 2026    | [Netpbm codec][PlainPixmap]                        | Plaintext images format codec (`.pbm`, `.pgm`, `.pbm`, `.ppm`).             | `data-format`                                  |
-  |  2026   | 2026    | [BinToImg][BinToImg]                               | Converts any file to image.                                                 | `exploration-tool`                             |
-  |  2026   | 2026    | [I2C_Console][I2C_Console_Client]                  | Communication with custom firmware providing I²C interface.                 | `communication` `custom-firmware` `I²C`        |
-  |  2026   | 2026    | [Lua code callgraph][LuaCallgraph]                 | Creates execution graphs from any Lua code.                                 | `source-tool` `exploration-tool`               |
-  |  2026   | 2026    | [RangesTree][RangesTree]                           | Module for data ranges in a tree structure.                                 | `data-structure`                               |
+  | Created  | Updated | Name                                               | Description                                                                 | Tags                                                     |
+  |:--------:|:--------|:--------------------------------------------------:|:----------------------------------------------------------------------------|:--------------------------------------------------------:|
+  |  2015    |         | [Workshop][workshop]                               | Personal codebase for Lua projects.                                         | `framework`                                              |
+  |  2016    | 2026-06 | [Lua code formatter (lcf)][lcf]                    | Full Lua 5.3 syntax parser, formatter and compiler.                         | `source-tool` `codec` `lua`                              |
+  |  2017    | 2017    | [Autoldoc][autoldoc]                               | Places LDoc comments in Lua source file.                                    | `source-tool` `encoder` `lua`                            |
+  |  2017    | 2026-09 | [Lua table serializer (lts)][lua_table_serializer] | Serializes Lua table to Lua source code that recreates that table.          | `source-tool` `exploration-tool` `encoder` `lua`         |
+  |  2018    | 2018    | [Command-line generator for lcf][lcf_params_gui]   | GUI to generate Bash command line for Lua code formatter.                   | `gui` `exploration-tool` `encoder`                       |
+  |  2019    | 2026    | [DS3231 GUI][DS3231 GUI]                           | GUI to hardware real-time clock module DS3231 via Firmata.                  | `gui` `communication` `codec` `firmata` `I²C` `ds3231`   |
+  |  2020    | 2020    | [Lightday][lightday]                               | GUI to calculate length of lightday (depending of latitude and day number). | `gui` `exploration-tool`                                 |
+  |  2023    | 2023    | [Firmata ambassador][FirmataAmbassador]            | Simplified interface to Firmata communication protocol.                     | `communication` `codec` `firmata`                        |
+  |  2024    | 2024    | [ArduinoLibGenerator][ArduinoLibGenerator]         | Codec for `.properties` library description file in ArduinoIDE.             | `data-format` `codec` `arduino`                          |
+  |  2024    | 2024    | [Linear "plasm" gradient generator][1dPlasm]       | Generates image file with random distance-dependent gradient transitions.   | `image` `exploration-tool` `encoder`                     |
+  |  2024    | 2024    | [RgbStripeConsole][RgbStripeConsole]               | Communication with firmware providing RGB stripe access.                    | `communication` `custom-firmware` `codec`                |
+  |  2024    | 2026-09 | [Itness][Itness]                                   | Strings tree codec.                                                         | `custom-data-format` `codec`                             |
+  |  2024    | 2026-09 | [Lua code melder (lcm)][lcm]                       | Aggregates `*.lua` files in directory tree into one.                        | `source-tool` `encoder`                                  |
+  |  2024    | 2026-06 | [Netpbm codec][PlainPixmap]                        | Plaintext images format codec (`.pbm`, `.pgm`, `.pbm`, `.ppm`).             | `data-format` `codec`                                    |
+  |  2026-01 | 2026-09 | [BinToImg][BinToImg]                               | Converts any file to image.                                                 | `exploration-tool` `image` `codec`                       |
+  |  2026-04 | 2026-05 | [I2C_Console][I2C_Console_Client]                  | Communication with custom firmware providing I²C interface.                 | `communication` `custom-firmware` `I²C` `codec`          |
+  |  2026-05 | 2026-05 | [RangesTree][RangesTree]                           | Module for data ranges in a tree structure.                                 | `data-structure` `module`                                |
+  |  2026-07 | 2026-09 | [Lua code callgraph][LuaCallgraph]                 | Creates execution graphs from any Lua code.                                 | `source-tool` `exploration-tool` `lua` `codec`           |
 
 * Texts
 
@@ -74,7 +74,7 @@ Organizing data in a convenient way is the hardest challenge I've encountered.
       * [graph planar representation][luatools_graphoon] `Graphoon` by `Robert Machmer`
       * [compiled Windows binaries][luatools_winbins] `LuaBuilds` by `Joe DF`
       * [cryptoroutines][luatools_crypto] `plc` by `philanc`
-      * [table serializer][luatools_table_serializer] `Ser` by `gvx`
+      * [table serializer][luatools_table_serializer] `Ser` by `Jasmijn Wellner`
       * [Lua parser][luatools_parser] by `Andre Murbach`
     * Transpilers
       * [Fengari][luaimpl_fengari] by `daurnimator` -- run Lua in browser!
