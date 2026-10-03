@@ -46,6 +46,7 @@ Organizing data in a convenient way is the hardest challenge I've encountered.
   |  2026-04 | 2026-05 | [I2C_Console][I2C_Console_Client]                  | Communication with custom firmware providing I²C interface.                 | `communication` `custom-firmware` `I²C` `codec`          |
   |  2026-05 | 2026-05 | [RangesTree][RangesTree]                           | Module for data ranges in a tree structure.                                 | `data-structure` `module`                                |
   |  2026-07 | 2026-09 | [Lua code callgraph][LuaCallgraph]                 | Creates execution graphs from any Lua code.                                 | `source-tool` `exploration-tool` `lua` `codec`           |
+  |  2026-10 | 2026-10 | [Files tree codec][FilesTreeCodec]                 | Minimalistic archiver (not compressor!)                                     | `custom-data-format` `codec` `files`                     |
 
 * Texts
 
@@ -123,6 +124,7 @@ Organizing data in a convenient way is the hardest challenge I've encountered.
 [autoldoc]:             https://github.com/martin-eden/autoldoc
 [lua_table_serializer]: https://github.com/martin-eden/lua_table_serializer
 [LuaCallgraph]:         https://github.com/martin-eden/Lua-Callgraph
+[FilesTreeCodec]:       https://github.com/martin-eden/Lua-FilesTreeCodec
 
 [tagging_style]:    https://github.com/martin-eden/tagging_guideline
 [firmata_protocol]: https://github.com/martin-eden/firmata_protocol/blob/main/protocol.md
