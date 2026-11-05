@@ -48,6 +48,13 @@ Organizing data in a convenient way is the hardest challenge I've encountered.
   |  2026-07 | 2026-09 | [Lua code callgraph][LuaCallgraph]                 | Creates execution graphs from any Lua code.                                 | `source-tool` `exploration-tool` `lua` `codec`           |
   |  2026-10 | 2026-10 | [Files tree codec][FilesTreeCodec]                 | Minimalistic archiver (not compressor!)                                     | `custom-data-format` `codec` `files`                     |
 
+* JavaScript
+
+  | Created  | Updated | Name                                               | Description                                                                 | Tags                                                     |
+  |:--------:|:--------|:--------------------------------------------------:|:----------------------------------------------------------------------------|:--------------------------------------------------------:|
+  |  2026-11 | 2026-11 | [Edsy's fork][Fork-Edsy]                           | Forked JavaScript tool, removed features I don't use.                       | `debloating` `fork` `js`                                 |
+
+
 * Texts
 
   * [Tagging style][tagging_style]
@@ -125,6 +132,8 @@ Organizing data in a convenient way is the hardest challenge I've encountered.
 [lua_table_serializer]: https://github.com/martin-eden/lua_table_serializer
 [LuaCallgraph]:         https://github.com/martin-eden/Lua-Callgraph
 [FilesTreeCodec]:       https://github.com/martin-eden/Lua-FilesTreeCodec
+
+[Fork-Edsy]: https://github.com/martin-eden/Html-fork-Edsy
 
 [tagging_style]:    https://github.com/martin-eden/tagging_guideline
 [firmata_protocol]: https://github.com/martin-eden/firmata_protocol/blob/main/protocol.md
