@@ -53,6 +53,7 @@ Organizing data in a convenient way is the hardest challenge I've encountered.
   | Created  | Updated | Name                                               | Description                                                                 | Tags                                                     |
   |:--------:|:--------|:--------------------------------------------------:|:----------------------------------------------------------------------------|:--------------------------------------------------------:|
   |  2026-11 | 2026-11 | [Edsy's fork][Fork-Edsy]                           | Forked JavaScript tool, removed features I don't use.                       | `debloating` `fork` `js`                                 |
+  |  2026-11 | 2026-11 | [Online Lua code formatter][web-lcf]               | Test/demo of Lua code formatter running in browser.                         | `source-tool` `codec` `lua` `js`                         |
 
 
 * Texts
@@ -134,6 +135,7 @@ Organizing data in a convenient way is the hardest challenge I've encountered.
 [FilesTreeCodec]:       https://github.com/martin-eden/Lua-FilesTreeCodec
 
 [Fork-Edsy]: https://github.com/martin-eden/Html-fork-Edsy
+[web-lcf]:   https://martin-eden.github.io/html-lua_code_formatter/
 
 [tagging_style]:    https://github.com/martin-eden/tagging_guideline
 [firmata_protocol]: https://github.com/martin-eden/firmata_protocol/blob/main/protocol.md
