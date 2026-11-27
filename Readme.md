@@ -48,13 +48,18 @@ Organizing data in a convenient way is the hardest challenge I've encountered.
   |  2026-07 | 2026-09 | [Lua code callgraph][LuaCallgraph]                 | Creates execution graphs from any Lua code.                                 | `source-tool` `exploration-tool` `lua` `codec`           |
   |  2026-10 | 2026-10 | [Files tree codec][FilesTreeCodec]                 | Minimalistic archiver (not compressor!)                                     | `custom-data-format` `codec` `files`                     |
 
-* JavaScript
+* JavaScript/Lua
 
-  | Created  | Updated | Name                                               | Description                                                                 | Tags                                                     |
-  |:--------:|:--------|:--------------------------------------------------:|:----------------------------------------------------------------------------|:--------------------------------------------------------:|
-  |  2026-11 | 2026-11 | [Edsy's fork][Fork-Edsy]                           | Forked JavaScript tool, removed features I don't use.                       | `debloating` `fork` `js`                                 |
-  |  2026-11 | 2026-11 | [Online Lua code formatter][web-lcf]               | Test/demo of Lua code formatter running in browser.                         | `source-tool` `codec` `lua` `js`                         |
+  | Created  | Updated | Name                                    | Description                                            | Tags                               |
+  |:--------:|:--------|:---------------------------------------:|:-------------------------------------------------------|:----------------------------------:|
+  |  2026-11 | 2026-11 | [Edsy's fork][Fork-Edsy]                | Forked JavaScript tool, removed features I don't use.  | `debloating` `fork` `js`           |
+  |  2026-11 | 2026-11 | [Online Lua code formatter][web-lcf]    | Test/demo of Lua code formatter running in browser.    | `source-tool` `demo` `lua` `js`    |
 
+* C/Lua
+
+  | Created | Updated | Name                            | Description                              | Tags                               |
+  |:-------:|:--------|:-------------------------------:|:-----------------------------------------|:----------------------------------:|
+  | 2026-11 | 2026-11 | [TekUi bugfix fork][fork-tekui] | AI-assisted bugfixes and Lua 5.5 support | `bugfix` `upstream-lua-support`    |
 
 * Texts
 
@@ -136,6 +141,8 @@ Organizing data in a convenient way is the hardest challenge I've encountered.
 
 [Fork-Edsy]: https://github.com/martin-eden/Html-fork-Edsy
 [web-lcf]:   https://martin-eden.github.io/html-lua_code_formatter/
+
+[fork-tekui]: https://github.com/martin-eden/c-fork-tekui
 
 [tagging_style]:    https://github.com/martin-eden/tagging_guideline
 [firmata_protocol]: https://github.com/martin-eden/firmata_protocol/blob/main/protocol.md
